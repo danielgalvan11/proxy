@@ -192,6 +192,9 @@ var good_da_regex_flag = 0 > 0 ? true : false;  // test for non-zero number of r
 
 // 39 rules:
 var good_da_host_exceptions_JSON = {
+"iad.apple.com": null,
+"iadsdk.apple.com": null,
+"iadsdk.apple.com.edgekey.net": null,
 "choice.microsoft.com": null,
 "choice.microsoft.com.nsatc.net": null,
 "corpext.msitadfs.glbdns2.microsoft.com": null,
