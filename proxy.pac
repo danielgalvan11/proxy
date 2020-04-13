@@ -278,7 +278,6 @@ var bad_da_host_JSON = {
 "firebaseinstallations.googleapis.com": null,
 "firebaseremoteconfig.googleapis.com": null,
 "safebrowsing.googleapis.com": null,
-"eu2.api.vodafone.com": null,
 
 
 "jobthread.com": null,
