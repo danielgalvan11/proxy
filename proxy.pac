@@ -191,9 +191,7 @@ var good_da_RegExp = /^$/;
 var good_da_regex_flag = 0 > 0 ? true : false;  // test for non-zero number of rules
 
 // 39 rules:
-var good_da_host_exceptions_JSON = { "iad.apple.com": null,
-"iadsdk.apple.com": null,
-"iadsdk.apple.com.edgekey.net": null,
+var good_da_host_exceptions_JSON = {
 "bingads.microsoft.com": null,
 "azure.bingads.trafficmanager.net": null,
 "choice.microsoft.com": null,
@@ -232,8 +230,20 @@ var good_da_host_exceptions_JSON = { "iad.apple.com": null,
 "www.bingads.microsoft.com": null };
 var good_da_host_exceptions_exact_flag = 39 > 0 ? true : false;  // test for non-zero number of rules
 
+//BLOCKING
 // 2050 rules:
-var bad_da_host_JSON = { "jobthread.com": null,
+var bad_da_host_JSON = { 
+
+"yt3.ggpht.com": null,
+"talk.google.com": null,
+"static.doubleclick.net": null,
+"snapads.com": null,
+"sc-analytics.appspot.com": null,
+"iad.apple.com": null,
+"iadsdk.apple.com": null,
+"iadsdk.apple.com.edgekey.net": null,
+
+"jobthread.com": null,
 "content.ad": null,
 "webvisor.ru": null,
 "nastydollars.com": null,
