@@ -192,14 +192,10 @@ var good_da_regex_flag = 0 > 0 ? true : false;  // test for non-zero number of r
 
 // 39 rules:
 var good_da_host_exceptions_JSON = {
-"bingads.microsoft.com": null,
-"azure.bingads.trafficmanager.net": null,
 "choice.microsoft.com": null,
 "choice.microsoft.com.nsatc.net": null,
 "corpext.msitadfs.glbdns2.microsoft.com": null,
 "corp.sts.microsoft.com": null,
-"df.telemetry.microsoft.com": null,
-"diagnostics.support.microsoft.com": null,
 "feedback.search.microsoft.com": null,
 "i1.services.social.microsoft.com": null,
 "i1.services.social.microsoft.com.nsatc.net": null,
@@ -226,8 +222,7 @@ var good_da_host_exceptions_JSON = {
 "watson.ppe.telemetry.microsoft.comwatson.telemetry.microsoft.com": null,
 "watson.telemetry.microsoft.com.nsatc.net": null,
 "wes.df.telemetry.microsoft.com": null,
-"win10.ipv6.microsoft.com": null,
-"www.bingads.microsoft.com": null };
+"win10.ipv6.microsoft.com": null };
 var good_da_host_exceptions_exact_flag = 39 > 0 ? true : false;  // test for non-zero number of rules
 
 //BLOCKING
@@ -242,6 +237,11 @@ var bad_da_host_JSON = {
 "iad.apple.com": null,
 "iadsdk.apple.com": null,
 "iadsdk.apple.com.edgekey.net": null,
+"bingads.microsoft.com": null,
+"azure.bingads.trafficmanager.net": null,
+"df.telemetry.microsoft.com": null,
+"diagnostics.support.microsoft.com": null,
+"www.bingads.microsoft.com": null,
 
 "jobthread.com": null,
 "content.ad": null,
