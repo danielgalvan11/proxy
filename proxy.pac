@@ -235,7 +235,6 @@ var bad_da_host_JSON = {
 "news.iadsdk.apple.com": null,
 "iadcontent.apple.com": null,
 ".+comscoreresearch.+": null,
-
 "talk.google.com": null,
 "static.doubleclick.net": null,
 "snapads.com": null,
@@ -283,8 +282,6 @@ var bad_da_host_JSON = {
 "firebaseinstallations.googleapis.com": null,
 "firebaseremoteconfig.googleapis.com": null,
 "safebrowsing.googleapis.com": null,
-
-
 "jobthread.com": null,
 "content.ad": null,
 "webvisor.ru": null,
