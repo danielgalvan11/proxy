@@ -192,10 +192,7 @@ var good_da_regex_flag = 0 > 0 ? true : false;  // test for non-zero number of r
 
 // 39 rules:
 var good_da_host_exceptions_JSON = {
-"news.iadsdk.apple.com": null,
-"iad.apple.com": null,
-"iadsdk.apple.com": null,
-"iadsdk.apple.com.edgekey.net": null,
+
 "choice.microsoft.com": null,
 "choice.microsoft.com.nsatc.net": null,
 "corpext.msitadfs.glbdns2.microsoft.com": null,
@@ -231,7 +228,13 @@ var good_da_host_exceptions_exact_flag = 39 > 0 ? true : false;  // test for non
 
 //BLOCKING
 // 2050 rules:
-var bad_da_host_JSON = { 
+var bad_da_host_JSON = {
+
+"iad.apple.com": null,
+"iadsdk.apple.com": null,
+"news.iadsdk.apple.com": null,
+"iadcontent.apple.com": null,
+".+comscoreresearch.+": null,
 
 "talk.google.com": null,
 "static.doubleclick.net": null,
