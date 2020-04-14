@@ -223,7 +223,9 @@ var good_da_host_exceptions_JSON = {
 "watson.ppe.telemetry.microsoft.comwatson.telemetry.microsoft.com": null,
 "watson.telemetry.microsoft.com.nsatc.net": null,
 "wes.df.telemetry.microsoft.com": null,
-"win10.ipv6.microsoft.com": null };
+"win10.ipv6.microsoft.com": null, 
+"search.itunes.apple.com": null,
+};
 var good_da_host_exceptions_exact_flag = 39 > 0 ? true : false;  // test for non-zero number of rules
 
 //BLOCKING
@@ -333,7 +335,6 @@ var bad_da_host_JSON = {
 "bbva.d3.sc.omtrdc.net": null,
 "notify.bugsnag.com": null,
 "tags.tiqcdn.com": null,
-"search.itunes.apple.com": null,
 "mc.us4.list-manage.com": null,
 "downloads.mailchimp.com": null,
 "connect.facebook.net": null,
