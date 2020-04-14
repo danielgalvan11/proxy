@@ -321,8 +321,6 @@ var bad_da_host_JSON = {
 "www.googletagservices.com": null,
 "edge-mqtt.facebook.com": null,
 "www.google.com": null,
-"www.instagram.com": null,
-"instagram.com": null,
 "scontent-iad3-1.xx.fbcdn.net": null,
 "scontent-iad3-1.cdninstagram.com": null,
 "keepalive.gotinder.com": null,
