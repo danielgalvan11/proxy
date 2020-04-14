@@ -357,10 +357,7 @@ var bad_da_host_JSON = {
 "disqus.com": null,
 "tags.bkrtx.com": null,
 "abcnewsdotcom.disqus.com": null,
-"fbsbx.com": null,
-"facebook.com": null,
-"m.facebook.com": null,
-"www.facebook.com": null,
+
 "abcnews.tt.omtrdc.net": null,
 "dl.conviva.com": null,
 "socialize.us1.gigya.com": null,
