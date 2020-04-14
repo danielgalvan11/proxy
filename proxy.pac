@@ -323,7 +323,6 @@ var bad_da_host_JSON = {
 "www.google.com": null,
 "www.instagram.com": null,
 "instagram.com": null,
-"scontent-iad3-1.xx.fbcdn.net": null,
 "keepalive.gotinder.com": null,
 "vendorlist.consensu.org": null,
 "beacon.shazam.com": null,
