@@ -323,7 +323,6 @@ var bad_da_host_JSON = {
 "keepalive.gotinder.com": null,
 "vendorlist.consensu.org": null,
 "graph.instagram.com": null,
-"scontent-iad3-1.xx.fbcdn.net": null,
 "beacon.shazam.com": null,
 "base-cdn.admarvel.com": null,
 "profile.localytics.com": null,
