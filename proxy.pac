@@ -273,7 +273,6 @@ var bad_da_host_JSON = {
 "firebaselogging.googleapis.com": null,
 "data.flurry.com": null,
 "graph.facebook.com": null,
-"graph.instagram.com": null,
 "scontent-iad3-1.xx.fbcdn.net": null,
 "fonts.gstatic.com": null,
 "settings.crashlytics.com": null,
