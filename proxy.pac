@@ -321,7 +321,6 @@ var bad_da_host_JSON = {
 "gtms01.alicdn.com": null,
 "www.googletagservices.com": null,
 "edge-mqtt.facebook.com": null,
-"www.gotinder.com": null,
 "keepalive.gotinder.com": null,
 "vendorlist.consensu.org": null,
 "graph.instagram.com": null,
