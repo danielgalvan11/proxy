@@ -272,8 +272,6 @@ var bad_da_host_JSON = {
 "assets.adobedtm.com": null,
 "firebaselogging.googleapis.com": null,
 "data.flurry.com": null,
-"graph.facebook.com": null,
-"scontent-iad3-1.xx.fbcdn.net": null,
 "fonts.gstatic.com": null,
 "settings.crashlytics.com": null,
 "device-provisioning.googleapis.com": null,
