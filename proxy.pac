@@ -384,7 +384,6 @@ var bad_da_host_JSON = {
 "s1.reutersmedia.net": null,
 "mb.moatads.com": null,
 "z-na.associates-amazon.com": null,
-"cdn.cookielaw.org": null,
 "player.ooyala.com": null,
 "e3.365dm.com": null,
 "bcp.crwdcntrl.net": null,
