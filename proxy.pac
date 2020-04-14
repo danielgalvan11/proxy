@@ -359,7 +359,6 @@ var bad_da_host_JSON = {
 "abcnewsdotcom.disqus.com": null,
 "fbsbx.com": null,
 "facebook.com": null,
-"static.xx.fbcdn.net": null,
 "m.facebook.com": null,
 "fbcdn.net": null,
 "www.facebook.com": null,
