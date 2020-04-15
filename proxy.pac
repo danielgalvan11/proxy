@@ -405,6 +405,11 @@ var bad_da_host_JSON = {
 "as.jivox.com": null,
 "portal.fb.com": null,
 "cdn.registerdisney.go.com": null,
+"sanalytics.disneyplus.com": null,
+"people-pa.googleapis.com": null,
+"play.googleapis.com": null,
+"yt3.ggpht.com": null,
+"www.googleapis.com": null,
 
 
 "jobthread.com": null,
