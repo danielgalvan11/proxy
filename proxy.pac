@@ -358,7 +358,6 @@ var bad_da_host_JSON = {
 "translate.googleapis.com": null,
 "translate.google.com": null,
 "maps.googleapis.com": null,
-"www.gstatic.com": null,
 "disqus.com": null,
 "tags.bkrtx.com": null,
 "abcnewsdotcom.disqus.com": null,
@@ -409,6 +408,7 @@ var bad_da_host_JSON = {
 "sanalytics.disneyplus.com": null,
 "people-pa.googleapis.com": null,
 "play.googleapis.com": null,
+"yt3.ggpht.com": null,
 "www.googleapis.com": null,
 
 
