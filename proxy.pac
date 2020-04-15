@@ -409,7 +409,6 @@ var bad_da_host_JSON = {
 "sanalytics.disneyplus.com": null,
 "people-pa.googleapis.com": null,
 "yt3.ggpht.com": null,
-"www.googleapis.com": null,
 
 "jobthread.com": null,
 "content.ad": null,
