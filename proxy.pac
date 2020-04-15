@@ -273,7 +273,7 @@ var bad_da_host_JSON = {
 "firebaselogging.googleapis.com": null,
 "data.flurry.com": null,
 "graph.facebook.com": null,
-"graph.facebook.com": null,
+"graph.instagram.com": null,
 "edge-mqtt.facebook.com": null,
 "scontent-iad3-1.xx.fbcdn.net": null,
 "scontent-iad3-1.cdninstagram.com": null,
@@ -405,11 +405,6 @@ var bad_da_host_JSON = {
 "as.jivox.com": null,
 "portal.fb.com": null,
 "cdn.registerdisney.go.com": null,
-"sanalytics.disneyplus.com": null,
-"people-pa.googleapis.com": null,
-"play.googleapis.com": null,
-"yt3.ggpht.com": null,
-"www.googleapis.com": null,
 
 
 "jobthread.com": null,
