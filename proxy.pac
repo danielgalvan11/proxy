@@ -408,7 +408,6 @@ var bad_da_host_JSON = {
 "cdn.registerdisney.go.com": null,
 "sanalytics.disneyplus.com": null,
 "people-pa.googleapis.com": null,
-"play.googleapis.com": null,
 "yt3.ggpht.com": null,
 "www.googleapis.com": null,
 
