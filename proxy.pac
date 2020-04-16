@@ -407,7 +407,6 @@ var bad_da_host_JSON = {
 "people-pa.googleapis.com": null,
 "play.googleapis.com": null,
 "yt3.ggpht.com": null,
-"www.googleapis.com": null,
 
 
 "jobthread.com": null,
@@ -953,7 +952,6 @@ var bad_da_host_JSON = {
 "utrack.hexun.com": null,
 "analytics.plex.tv": null,
 "click1.email.nymagazine.com": null,
-"badge.facebook.com": null,
 "top100.rambler.ru": null,
 "beacon.ehow.com": null,
 "affiliation.planethoster.info": null,
@@ -1821,6 +1819,7 @@ var bad_da_host_JSON = {
 "exchange.automoc.net": null,
 "affiliatenetwork.co.za": null,
 "cdnfile.xyz": null,
+"api.facebook.com": null,
 "hashforcash.us": null,
 "sociallist.org": null,
 "post.rmbn.ru": null,
