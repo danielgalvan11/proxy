@@ -12,17 +12,17 @@
 			<key>PayloadDisplayName</key>
 			<string>Global HTTP Proxy</string>
 			<key>PayloadIdentifier</key>
-			<string>com.apple.proxy.http.global.B0F0B291-6713-4708-94F0-F5B91BA9C93E</string>
+			<string>com.apple.proxy.http.global.82C879B9-632F-4C71-ACB9-13158BAC6638</string>
 			<key>PayloadType</key>
 			<string>com.apple.proxy.http.global</string>
 			<key>PayloadUUID</key>
-			<string>B0F0B291-6713-4708-94F0-F5B91BA9C93E</string>
+			<string>82C879B9-632F-4C71-ACB9-13158BAC6638</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 			<key>ProxyCaptiveLoginAllowed</key>
 			<true/>
 			<key>ProxyPACFallbackAllowed</key>
-			<false/>
+			<true/>
 			<key>ProxyPACURL</key>
 			<string>https://raw.githubusercontent.com/danielgalvan11/proxy/master/proxy.pac</string>
 			<key>ProxyType</key>
@@ -40,7 +40,7 @@
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
-	<string>4C8961EC-D6DA-4535-8121-36A62E2A96FF</string>
+	<string>BEF3230C-0A69-49AC-92ED-6A1F26D97E94</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
 </dict>
