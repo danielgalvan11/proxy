@@ -274,7 +274,6 @@ var bad_da_host_JSON = {
 "ads.flurry.com": null,
 "graph.facebook.com": null,
 "edge-mqtt.facebook.com": null,
-"scontent-iad3-1.xx.fbcdn.net": null,
 "scontent-iad3-1.cdninstagram.com": null,
 "settings.crashlytics.com": null,
 "device-provisioning.googleapis.com": null,
