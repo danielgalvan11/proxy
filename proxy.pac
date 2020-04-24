@@ -340,7 +340,7 @@ var bad_da_host_JSON = {
 "widgets.outbrain.com": null,
 "middycdn-a.akamaihd.net": null,
 "ajax.googleapis.com": null,
-"fonts.googleapis.com": null,
+"play.google.com": null,
 "static.chartbeat.com": null,
 "widget.perfectmarket.com": null,
 "www.googletagmanager.com": null,
