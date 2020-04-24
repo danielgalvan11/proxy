@@ -339,7 +339,6 @@ var bad_da_host_JSON = {
 "s.clickability.com": null,
 "widgets.outbrain.com": null,
 "middycdn-a.akamaihd.net": null,
-"ajax.googleapis.com": null,
 "play.google.com": null,
 "static.chartbeat.com": null,
 "widget.perfectmarket.com": null,
@@ -370,7 +369,6 @@ var bad_da_host_JSON = {
 "cdns.us1.gigya.com": null,
 "auth.9c9media.ca": null,
 "cdns.gigya.com": null,
-"ajax.cloudflare.com": null,
 "c.disquscdn.com": null,
 "sp.auth.adobe.com": null,
 "entitlement.auth.adobe.com": null,
@@ -401,7 +399,6 @@ var bad_da_host_JSON = {
 "cdn.registerdisney.go.com": null,
 "sanalytics.disneyplus.com": null,
 "people-pa.googleapis.com": null,
-"play.googleapis.com": null,
 "yt3.ggpht.com": null,
 "iid.googleapis.com": null,
 "unionapp.co": null,
@@ -430,6 +427,8 @@ var bad_da_host_JSON = {
 "contextual.media.net": null,
 "web.vortex.data.msn.com": null,
 "adservice.google.es": null,
+"fonts.gstatic.com": null,
+"fonts.googleapis.com": null,
 
 
 "jobthread.com": null,
