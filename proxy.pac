@@ -430,7 +430,6 @@ var bad_da_host_JSON = {
 "contextual.media.net": null,
 "web.vortex.data.msn.com": null,
 "adservice.google.es": null,
-"play.google.com": null,
 
 
 "jobthread.com": null,
