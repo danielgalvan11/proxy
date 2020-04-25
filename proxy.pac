@@ -429,7 +429,7 @@ var bad_da_host_JSON = {
 "adservice.google.es": null,
 "fonts.gstatic.com": null,
 "fonts.googleapis.com": null,
-
+"goingapp.xyz": null,
 
 "jobthread.com": null,
 "content.ad": null,
