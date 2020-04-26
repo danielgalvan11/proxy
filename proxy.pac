@@ -223,8 +223,7 @@ var good_da_host_exceptions_JSON = {
 "watson.ppe.telemetry.microsoft.comwatson.telemetry.microsoft.com": null,
 "watson.telemetry.microsoft.com.nsatc.net": null,
 "wes.df.telemetry.microsoft.com": null,
-"win10.ipv6.microsoft.com": null, 
-"search.itunes.apple.com": null,
+"win10.ipv6.microsoft.com": null,
 };
 var good_da_host_exceptions_exact_flag = 39 > 0 ? true : false;  // test for non-zero number of rules
 
