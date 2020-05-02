@@ -429,7 +429,6 @@ var bad_da_host_JSON = {
 "fonts.gstatic.com": null,
 "fonts.googleapis.com": null,
 "goingapp.xyz": null,
-"preview.gotinder.com": null,
 "vars.hotjar.com": null,
 "www.google.de": null,
 "sjs.bizographics.com": null,
