@@ -478,7 +478,6 @@ var bad_da_host_JSON = {
 "api.amazon.es": null,
 "www.amazon.sa": null,
 "amazon.sa": null,
-"dm4p36fbs3hl0.cloudfront.net": null,
 "launches.appsflyer.com": null,
 "play.itunes.apple.com.edgesuite.net": null,
 "inapps.appsflyer.com": null,
