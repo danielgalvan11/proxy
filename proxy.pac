@@ -501,7 +501,6 @@ var bad_da_host_JSON = {
 "rt.applvn.com": null,
 "hoodsite.disqus.com": null,
 "prod.disqus.map.fastlylb.net": null,
-"www.googleapis.com": null,
 "tags-cdn.deployads.com": null,
 
 
