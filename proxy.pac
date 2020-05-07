@@ -473,7 +473,6 @@ var bad_da_host_JSON = {
 "www.amazon.com": null,
 "music.amazon.es": null,
 "tp.1fe6d5bb2-frontier.amazon.es": null,
-"dwxjayoxbnyrr.cloudfront.net": null,
 "fls-eu.amazon.com": null,
 "api.amazon.es": null,
 "www.amazon.sa": null,
@@ -502,7 +501,6 @@ var bad_da_host_JSON = {
 "rt.applvn.com": null,
 "hoodsite.disqus.com": null,
 "prod.disqus.map.fastlylb.net": null,
-"apps.mzstatic.com": null,
 "www.googleapis.com": null,
 "tags-cdn.deployads.com": null,
 
