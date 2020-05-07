@@ -479,7 +479,6 @@ var bad_da_host_JSON = {
 "amazon.sa": null,
 "launches.appsflyer.com": null,
 "inapps.appsflyer.com": null,
-"connectivitycheck.gstatic.com": null,
 "completion.amazon.com": null,
 "watch.amazon.co.uk": null,
 "watch.amazon.com": null,
