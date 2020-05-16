@@ -397,7 +397,6 @@ var bad_da_host_JSON = {
 "portal.fb.com": null,
 "cdn.registerdisney.go.com": null,
 "sanalytics.disneyplus.com": null,
-"people-pa.googleapis.com": null,
 "yt3.ggpht.com": null,
 "iid.googleapis.com": null,
 "unionapp.co": null,
