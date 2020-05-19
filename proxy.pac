@@ -267,7 +267,6 @@ var bad_da_host_JSON = {
 "t.appsflyer.com": null,
 "e.crashlytics.com": null,
 "dpm.demdex.net": null,
-"assets.adobedtm.com": null,
 "firebaselogging.googleapis.com": null,
 "data.flurry.com": null,
 "ads.flurry.com": null,
