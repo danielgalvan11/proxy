@@ -328,6 +328,7 @@ var bad_da_host_JSON = {
 "analytics.localytics.com": null,
 "bbva.d3.sc.omtrdc.net": null,
 "notify.bugsnag.com": null,
+"bugsnag.com": null,
 "tags.tiqcdn.com": null,
 "mc.us4.list-manage.com": null,
 "downloads.mailchimp.com": null,
@@ -499,7 +500,26 @@ var bad_da_host_JSON = {
 "hoodsite.disqus.com": null,
 "prod.disqus.map.fastlylb.net": null,
 "tags-cdn.deployads.com": null,
-
+"advertising.amazon.com": null,
+"searchads.apple.com": null,
+"https://www.markmonitor.com": null,
+"vs-api.voodoo-tech.io": null,
+"searchads.apple.com": null,
+    "placements.tapjoy.com": null,
+    "rpc.tapjoy.com": null,
+    "ws.tapjoyads.com": null,
+    "app.adjust.com": null,
+    "crosspromo.voodoo.io": null,
+    "api.gameanalytics.com": null,
+    "pad-v3.presage.io": null,
+    "track.tenjin.io": null,
+    "com.tenjin.ios.api": null,
+    "settings.crashlytics.com": null,
+    "addelivery-engine-api.voodoo-ads.io": null,
+    "splash-screen.voodoo-ads.io": null,
+    
+    
+    //------------------add-------*******************************************************-----------------------------------------
 
 "jobthread.com": null,
 "content.ad": null,
