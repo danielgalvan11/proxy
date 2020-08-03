@@ -437,7 +437,6 @@ var bad_da_host_JSON = {
 "static.hotjar.com": null,
 "go.pardot.com": null,
 "pi.pardot.com": null,
-"www.google.com": null,
 "commercialvalue.org": null,
 "xhamsterlive.com": null,
 "amazon.it": null,
@@ -526,7 +525,11 @@ var bad_da_host_JSON = {
 "service.cmp.oath.com": null,
 "wv.inner-active.mobi": null,
 "api.gameanalytics.com": null,
-"n.systemlog.me": null,
+"play.vidyard.com": null,
+"www.markmonitor.com": null,
+"ikunselt.com": null,
+"cdn.linearicons.com": null,
+
 
 
     
