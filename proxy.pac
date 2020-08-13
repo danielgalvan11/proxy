@@ -502,12 +502,10 @@ var bad_da_host_JSON = {
 "advertising.amazon.com": null,
 "searchads.apple.com": null,
 "https://www.markmonitor.com": null,
-"vs-api.voodoo-tech.io": null,
 "searchads.apple.com": null,
 "placements.tapjoy.com": null,
 "rpc.tapjoy.com": null,
 "ws.tapjoyads.com": null,
-"app.adjust.com": null,
 "crosspromo.voodoo.io": null,
 "api.gameanalytics.com": null,
 "pad-v3.presage.io": null,
@@ -519,7 +517,6 @@ var bad_da_host_JSON = {
 "census.us-west-2.nielsencollections.com": null,
 "front-logs.voodoo-ads.io": null,
 "tapjoy-com-lb-vpc-332546193.us-east-1.elb.amazonaws.com": null,
-"cs550162656.adn.psicdn.net": null,
 "rubick.gameanalytics.com": null,
 "connect.tapjoy.com": null,
 "service.cmp.oath.com": null,
@@ -528,8 +525,6 @@ var bad_da_host_JSON = {
 "play.vidyard.com": null,
 "www.markmonitor.com": null,
 "ikunselt.com": null,
-"cdn.linearicons.com": null,
-
 
 
     
