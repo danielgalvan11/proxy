@@ -244,7 +244,7 @@ var bad_da_host_JSON = {
 "sc-analytics.appspot.com": null,
 "shows.snapchat.com": null,
 
-"analytics-collector-28944298.us-east-1.elb.amazonaws.com": null,
+"vaes.amazon-adsystem.com": null,
 
 
 "bingads.microsoft.com": null,
