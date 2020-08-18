@@ -242,6 +242,11 @@ var bad_da_host_JSON = {
 "app-analytics.snapchat.com": null,
 "mvm.snapchat.com": null,
 "sc-analytics.appspot.com": null,
+"shows.snapchat.com": null,
+
+"analytics-collector-28944298.us-east-1.elb.amazonaws.com": null,
+
+
 "bingads.microsoft.com": null,
 "azure.bingads.trafficmanager.net": null,
 "df.telemetry.microsoft.com": null,
