@@ -242,10 +242,10 @@ var bad_da_host_JSON = {
 "app-analytics.snapchat.com": null,
 "mvm.snapchat.com": null,
 "sc-analytics.appspot.com": null,
+
 "shows.snapchat.com": null,
-
+appleglobal.102.112.2o7.net
 "feelinsonice.l.google.com": null,
-
 "vaes.amazon-adsystem.com": null,
 
 
