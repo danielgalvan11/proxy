@@ -242,6 +242,7 @@ var bad_da_host_JSON = {
 "app-analytics.snapchat.com": null,
 "mvm.snapchat.com": null,
 "sc-analytics.appspot.com": null,
+advertising.snapchat.com": null,
 
 
 
@@ -249,10 +250,12 @@ var bad_da_host_JSON = {
 "vaes.amazon-adsystem.com": null,
 "snap-storage-cdn.l.google.com": null,
 "aws.duplex.snapchat.com": null,
-"mvm.snapchat.com": null,
 "cognac-prod.appspot.com": null,
 "aws.api.snapchat.com": null,
 "usc.adserver.snapads.com": null,
+"loca.sc-jpl.com": null,
+"adsapi.snapchat.com": null,
+
 
 
 
@@ -286,6 +289,7 @@ var bad_da_host_JSON = {
 "data.flurry.com": null,
 "ads.flurry.com": null,
 "graph.facebook.com": null,
+"facebook.com": null,
 "edge-mqtt.facebook.com": null,
 "scontent-iad3-1.cdninstagram.com": null,
 "settings.crashlytics.com": null,
@@ -534,12 +538,21 @@ var bad_da_host_JSON = {
 "tapjoy-com-lb-vpc-332546193.us-east-1.elb.amazonaws.com": null,
 "rubick.gameanalytics.com": null,
 "connect.tapjoy.com": null,
+"tapjoy.com": null,
 "service.cmp.oath.com": null,
 "wv.inner-active.mobi": null,
 "api.gameanalytics.com": null,
 "play.vidyard.com": null,
 "www.markmonitor.com": null,
 "ikunselt.com": null,
+"trxrc.com": null,
+"dummy.bucksense.io": null,
+"bkserving.com": null,
+"mopub.com": null,
+"vungle.com": null,
+"tenjin.io": null,
+"supersonic.com": null,
+
 
 
     
