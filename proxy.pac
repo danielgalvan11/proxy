@@ -242,7 +242,7 @@ var bad_da_host_JSON = {
 "app-analytics.snapchat.com": null,
 "mvm.snapchat.com": null,
 "sc-analytics.appspot.com": null,
-advertising.snapchat.com": null,
+"advertising.snapchat.com": null,
 
 
 
@@ -311,7 +311,7 @@ advertising.snapchat.com": null,
 "imp.control.kochava.com": null,
 "view.adjust.com": null,
 "app.adjust.com": null,
-"https://app-measurement.com/sdk-exp": null,
+"app-measurement.com/sdk-exp": null,
 "epicurious.com": null,
 "www.epicurious.com": null,
 "decide.mixpanel.com": null,
