@@ -240,7 +240,6 @@ var bad_da_host_JSON = {
 "snapads.com": null,
 "euw.adserver.snapads.com": null,
 "app-analytics.snapchat.com": null,
-"mvm.snapchat.com": null,
 "sc-analytics.appspot.com": null,
 "advertising.snapchat.com": null,
 
@@ -249,9 +248,7 @@ var bad_da_host_JSON = {
 "feelinsonice.l.google.com": null,
 "vaes.amazon-adsystem.com": null,
 "snap-storage-cdn.l.google.com": null,
-"aws.duplex.snapchat.com": null,
 "cognac-prod.appspot.com": null,
-"aws.api.snapchat.com": null,
 "usc.adserver.snapads.com": null,
 "loca.sc-jpl.com": null,
 "adsapi.snapchat.com": null,
