@@ -304,7 +304,6 @@ var bad_da_host_JSON = {
 "events3.adcolony.com": null,
 "adc3-launch.adcolony.com": null,
 "imp.control.kochava.com": null,
-"view.adjust.com": null,
 "app-measurement.com/sdk-exp": null,
 "epicurious.com": null,
 "decide.mixpanel.com": null,
