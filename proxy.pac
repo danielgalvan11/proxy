@@ -522,7 +522,7 @@ var bad_da_host_JSON = {
 "pad-v3.presage.io": null,
 "cdn.linearicons.com": null,
 "cs550162656.adn.psicdn.net": null,
-"app.adjust.com": null, "vs-api.voodoo-tech.io": null,
+"vs-api.voodoo-tech.io": null,
 "settings.crashlytics.com": null,
 "addelivery-engine-api.voodoo-ads.io": null,
 "splash-screen.voodoo-ads.io": null,
