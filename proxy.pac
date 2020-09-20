@@ -243,7 +243,21 @@ var bad_da_host_JSON = {
 "sc-analytics.appspot.com": null,
 "advertising.snapchat.com": null,
 
+"events.avantisvideo.com": null,
+"static.avantisvideo.com": null,
 
+"cf.iadsdk.apple.com": null,
+"www.tm.lg.prod.aadmsa.trafficmanager.net": null,
+"bay-main-ips.b.lg.prod.aadmsa.trafficmanager.net": null,
+"trafficmanager.com": null,
+
+"cds.f3d9q2w8.hwcdn.net": null,
+
+"art19.com": null,
+
+"rss.art19.com": null,
+
+"app.adjust.com": null,
 
 "feelinsonice.l.google.com": null,
 "vaes.amazon-adsystem.com": null,
