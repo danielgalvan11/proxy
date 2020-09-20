@@ -267,6 +267,7 @@ var bad_da_host_JSON = {
 "loca.sc-jpl.com": null,
 "adsapi.snapchat.com": null,
 
+"connectivitycheck.gstatic.com": null,
 
 
 "bingads.microsoft.com": null,
