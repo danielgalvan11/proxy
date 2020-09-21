@@ -22,7 +22,7 @@
 			<key>ProxyPACFallbackAllowed</key>
 			<false/>
 			<key>ProxyPACURL</key>
-			<string>https://raw.githubusercontent.com/giantrule/antiRevoke/master/Script/giantrule-RA.js</string>
+			<string>https://raw.githubusercontent.com/danielgalvan11/proxy/master/block.js</string>
 			<key>ProxyType</key>
 			<string>Auto</string>
 		</dict>
