@@ -24,8 +24,42 @@ var giantrule = ["ads",
 		"umeng",
 		"loggly",
 		"ppsflyer",
-		"flurry",
-		"aj1559"];
+		"flurry",w
+		"aj1559",
+
+		"gstatic",
+		"google",
+		"pardot",
+		"amazon",
+		"supersonic",
+		"tenjin",
+		"alytics",
+		"advertising",
+		"ru",
+		"evidon",	
+		"gigya",
+		"quantcast",
+		"analytics",
+		"traffic",
+		"log",
+		"tracking",
+		"metric",
+		"ad",
+		"facebook",
+		"adobe",
+		"doubleclick",
+		"diagnostics",
+		"telemetry",
+		"gstatic",
+		"adjust",
+		"avant",
+		"crash",
+		"share",
+		"research",
+		
+
+
+];
 
 function FindProxyForURL(url, host) {
   host = host.toLowerCase();
