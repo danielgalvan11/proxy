@@ -24,7 +24,7 @@ var giantrule = ["ads",
 		"umeng",
 		"loggly",
 		"ppsflyer",
-		"flurry",w
+		"flurry",
 		"aj1559",
 
 		"gstatic",
