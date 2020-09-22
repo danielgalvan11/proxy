@@ -37,14 +37,16 @@ var giantrule = ["ads",
 		"evidon",	
 		"gigya",
 		"quantcast",
-		"analytics",
-		"log",
-		"tracking",
-		"metric",
+	
 		"facebook",
 		"adobe",
 		"doubleclick",
-	
+	        "diagnostics",
+		"telemetry",
+		"adjust",
+		"avant",
+		"crash",
+		"research",
 
 		
 
