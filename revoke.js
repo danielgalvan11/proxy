@@ -48,6 +48,11 @@ var giantrule = ["ads",
 		"crash",
 		"research",
 
+"traffic",
+"amazon",
+"acloudimages",
+"offer",
+
 		
 
 
