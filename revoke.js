@@ -44,12 +44,7 @@ var giantrule = ["ads",
 		"facebook",
 		"adobe",
 		"doubleclick",
-		"diagnostics",
-		"telemetry",
-		"adjust",
-		"avant",
-		"crash",
-		"research",
+	
 
 		
 
