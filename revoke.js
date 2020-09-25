@@ -27,7 +27,6 @@ var giantrule = ["ads",
 		"flurry",
 		"aj1559",
 
-		"gstatic",
 		"pardot",
 		"supersonic",
 		"tenjin",
@@ -37,7 +36,6 @@ var giantrule = ["ads",
 		"gigya",
 		"quantcast",
 	
-		"facebook",
 		"adobe",
 		"doubleclick",
 	        "diagnostics",
@@ -47,24 +45,20 @@ var giantrule = ["ads",
 		"crash",
 		
 
-"amazon",
+
 "acloudimages",
 "offer",
-"iad",
 "mixpanel",
 "ggpht",
-"tag",
 "criteo",
+"tag",
 
 "brightcove",
 "taboola",
 "newrelic",
 "gigya",
-"widgets",
-"collector",
 "adcolony",
 "demdex",
-"adobe",
 
 
 		
