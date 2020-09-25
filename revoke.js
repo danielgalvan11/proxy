@@ -44,7 +44,9 @@ var giantrule = ["ads",
 		"avant",
 		"crash",
 		
-
+"gstatic",
+"widgets",
+"collector",
 
 "acloudimages",
 "offer",
