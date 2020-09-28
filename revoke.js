@@ -49,7 +49,6 @@ var giantrule = ["ads",
 "acloudimages",
 "offer",
 "mixpanel",
-"ggpht",
 "criteo",
 "tag",
 
