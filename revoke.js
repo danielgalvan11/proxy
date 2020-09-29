@@ -55,6 +55,13 @@ var giantrule = ["ads",
 "adcolony",
 "demdex",
 
+"ggpht",
+"gstatic",
+"adjust",
+"widgets",
+"offer",
+"facebook",
+"google",
 
 		
 
