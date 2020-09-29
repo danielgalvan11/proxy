@@ -61,7 +61,6 @@ var giantrule = ["ads",
 "widgets",
 "offer",
 "facebook",
-"google",
 
 		
 
