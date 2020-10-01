@@ -60,7 +60,8 @@ var giantrule = ["ads",
 "offer",
 "facebook",
 "gstatic",
-		
+"syndication",
+"research"
 
 
 ];
