@@ -65,7 +65,7 @@ var giantrule = ["ads",
 "taboo",
 "firebase",
 "facebook",
-
+"yahoo",
 
 ];
 
