@@ -55,6 +55,8 @@ var ruler = ["ads",
 "adcolony",
 "demdex",
 
+"research",
+"track",
 "adjust",
 "widgets",
 "offer",
@@ -65,6 +67,7 @@ var ruler = ["ads",
 "firebase",
 "facebook",
 "yahoo",
+
 
 ];
 
