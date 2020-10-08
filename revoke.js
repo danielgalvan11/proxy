@@ -65,7 +65,6 @@ var ruler = ["ads",
 "firebase",
 "facebook",
 "yahoo",
-"google",
 
 ];
 
