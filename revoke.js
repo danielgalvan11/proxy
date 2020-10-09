@@ -81,6 +81,10 @@ var ruler = ["ads",
 "fyber",
 "helpshift",
 "art19",
+"pikpok",
+"amplitude",
+"braze",
+
 
 ];
 
