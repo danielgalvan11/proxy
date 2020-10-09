@@ -97,7 +97,8 @@ var ruler = ["ads",
 "sometwo",
 "lbtls",
 "godaddy",
-"Google",
+"google",
+"aerisapi",
 
 
 
