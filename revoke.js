@@ -90,6 +90,9 @@ var ruler = ["ads",
 "noodlecake",
 "auxbrain",
 "google",
+"appspot",
+"ntp",
+"tapjoy",
 
 
 ];
