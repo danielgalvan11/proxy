@@ -79,6 +79,8 @@ var ruler = ["ads",
 "herokuapp",
 "edgecastcdn",
 "fyber",
+"helpshift",
+"art19",
 
 ];
 
