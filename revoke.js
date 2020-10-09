@@ -73,6 +73,7 @@ var ruler = ["ads",
 "hwcdn",
 "liftoff",
 "sectigo",
+"amazonaws",
 
 ];
 
