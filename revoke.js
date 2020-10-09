@@ -93,6 +93,8 @@ var ruler = ["ads",
 "appspot",
 "ntp",
 "tapjoy",
+"bitmango",
+"maxmind",
 
 
 ];
