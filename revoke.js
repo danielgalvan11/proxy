@@ -88,7 +88,8 @@ var ruler = ["ads",
 "psicdn",
 "ketchapp",
 "noodlecake",
-
+"auxbrain",
+"google",
 
 
 ];
