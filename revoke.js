@@ -95,6 +95,10 @@ var ruler = ["ads",
 "tapjoy",
 "bitmango",
 "maxmind",
+"applifier",
+"elasticbeanstalk",
+"apsalar",
+
 
 
 ];
