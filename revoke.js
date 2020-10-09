@@ -85,6 +85,9 @@ var ruler = ["ads",
 "amplitude",
 "braze",
 "googleusercontent",
+"psicdn",
+"ketchapp",
+
 
 
 ];
