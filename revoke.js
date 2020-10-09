@@ -77,6 +77,9 @@ var ruler = ["ads",
 "spyware",
 "adtilt",
 "herokuapp",
+"edgecastcdn",
+"fyber",
+
 ];
 
 function FindProxyForURL(url, host) {
