@@ -99,7 +99,7 @@ var ruler = ["ads",
 "sometwo",
 "lbtls",
 "godaddy",
-"amazonaws",
+"aws",
 
 
 
