@@ -99,6 +99,7 @@ var ruler = ["ads",
 "elasticbeanstalk",
 "apsalar",
 "aws",
+"sometwo",
 
 
 
