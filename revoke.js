@@ -84,6 +84,7 @@ var ruler = ["ads",
 "pikpok",
 "amplitude",
 "braze",
+"googleusercontent",
 
 
 ];
