@@ -98,6 +98,7 @@ var ruler = ["ads",
 "applifier",
 "elasticbeanstalk",
 "apsalar",
+"aws",
 
 
 
