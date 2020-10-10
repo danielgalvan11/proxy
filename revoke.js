@@ -99,6 +99,9 @@ var ruler = ["ads",
 "kochava",
 "playgendary",
 "plg",
+"ntp",
+"google",
+
 
 ];
 
