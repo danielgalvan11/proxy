@@ -101,6 +101,10 @@ var ruler = ["ads",
 "plg",
 "ntp",
 "google",
+"branch",
+"comscore",
+"nielsen",
+"salesforce",
 
 
 ];
