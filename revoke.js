@@ -135,6 +135,7 @@ var ruler = ["ads",
 "parsely",
 "aws",
 "amazonaws",
+"chaturbate",
 
 
 
