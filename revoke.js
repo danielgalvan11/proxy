@@ -105,6 +105,7 @@ var ruler = ["ads",
 "comscore",
 "nielsen",
 "salesforce",
+"fbcdn",
 
 
 ];
