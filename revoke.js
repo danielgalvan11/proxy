@@ -105,6 +105,7 @@ var ruler = ["ads",
 "comscore",
 "nielsen",
 "salesforce",
+
 "fbcdn",
 "byte",
 "tfbnw",
@@ -133,7 +134,6 @@ var ruler = ["ads",
 "pixel",
 "sizmek",
 "parsely",
-"aws",
 "chaturbate",
 
 
