@@ -134,7 +134,6 @@ var ruler = ["ads",
 "sizmek",
 "parsely",
 "aws",
-"amazonaws",
 "chaturbate",
 
 
