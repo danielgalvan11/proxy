@@ -133,7 +133,6 @@ var ruler = ["ads",
 "pixel",
 "stats",
 
-"google",
 
 
 ];
