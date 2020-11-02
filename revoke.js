@@ -132,7 +132,6 @@ var ruler = ["ads",
 "chaturbate",
 "pixel",
 "stats",
-"amazon",
 
 
 
