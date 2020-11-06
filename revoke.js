@@ -4,6 +4,7 @@ var PROXY = "PROXY 127.0.0.1:8021";
 var ruler = ["ads",
 	     "mesu",
 	     "ocsp",
+	     "gdmf",
 		"crl",
 		"world-gen",
 		"click",
