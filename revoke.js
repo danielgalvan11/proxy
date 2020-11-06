@@ -134,7 +134,16 @@ var ruler = ["ads",
 "chaturbate",
 "pixel",
 "stats",
-"google.com"
+"google.com",
+"mediation",
+	     "pangle",
+	     "saygames",
+	     "saypromo",
+	     "digitalocean",
+	     "hwcdn",
+	     "snssdk",
+	     "saymediation",
+	     "gstatic",
 
 
 ];
