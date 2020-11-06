@@ -59,7 +59,7 @@ var ruler = ["ads",
 "mdex",
 
 "research",
-"track",
+"tracker",
 "adjust",
 "widgets",
 "offer",
