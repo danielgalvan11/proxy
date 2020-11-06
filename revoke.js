@@ -144,6 +144,8 @@ var ruler = ["ads",
 	     "snssdk",
 	     "saymediation",
 	     "gstatic",
+	     "markmonitor",
+	     "edgecast",
 
 
 ];
