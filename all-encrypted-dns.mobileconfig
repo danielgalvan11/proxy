@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+        <dict>
+            <key>Name</key>
+            <string>Quad9 DNS over TLS</string>
+            <key>PayloadDescription</key>
+            <string>Configures device to use Quad9 Encrypted DNS over TLS</string>
+            <key>PayloadDisplayName</key>
+            <string>Quad9 DNS over TLS</string>
+            <key>PayloadIdentifier</key>
+            <string>com.apple.dnsSettings.managed.fed2b160-4989-4f96-9afb-10cfaf16e980</string>
+            <key>PayloadType</key>
+            <string>com.apple.dnsSettings.managed</string>
+            <key>PayloadUUID</key>
+            <string>2f6f4cc1-fb49-416a-9b56-aa148f30ef5e</string>
+            <key>PayloadVersion</key>
+            <integer>1</integer>
+            <key>DNSSettings</key>
+            <dict>
+                <key>DNSProtocol</key>
+                <string>TLS</string>
+                <key>ServerAddresses</key>
+                <array>
+                    <string>2620:fe::fe</string>
+                    <string>2620:fe::9</string>
+                    <string>9.9.9.9</string>
+                    <string>149.112.112.112</string>
+                </array>
+                <key>ServerName</key>
+                <string>dns.quad9.net</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>Name</key>
+            <string>Quad9 DNS over HTTPS</string>
+            <key>PayloadDescription</key>
+            <string>Configures device to use Quad9 Encrypted DNS over HTTPS</string>
+            <key>PayloadDisplayName</key>
+            <string>Quad9 DNS over HTTPS</string>
+            <key>PayloadIdentifier</key>
+            <string>com.apple.dnsSettings.managed.1a93b54b-8541-4536-8302-c08159ca9184</string>
+            <key>PayloadType</key>
+            <string>com.apple.dnsSettings.managed</string>
+            <key>PayloadUUID</key>
+            <string>ffee2c6b-9cff-4c2a-892c-e03788bcbd64</string>
+            <key>PayloadVersion</key>
+            <integer>1</integer>
+            <key>DNSSettings</key>
+            <dict>
+                <key>DNSProtocol</key>
+                <string>HTTPS</string>
+                <key>ServerAddresses</key>
+                <array>
+                    <string>2620:fe::fe</string>
+                    <string>2620:fe::9</string>
+                    <string>9.9.9.9</string>
+                    <string>149.112.112.112</string>
+                </array>
+                <key>ServerURL</key>
+                <string>https://dns.quad9.net/dns-query</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>Name</key>
+            <string>Cloudflare DNS over TLS</string>
+            <key>PayloadDescription</key>
+            <string>Configures device to use Cloudflare Encrypted DNS over TLS</string>
+            <key>PayloadDisplayName</key>
+            <string>Cloudflare DNS over TLS</string>
+            <key>PayloadIdentifier</key>
+            <string>com.apple.dnsSettings.managed.9d6e5fdf-e404-4f34-ae94-27ed2f636ac4</string>
+            <key>PayloadType</key>
+            <string>com.apple.dnsSettings.managed</string>
+            <key>PayloadUUID</key>
+            <string>35d5c8a0-afa6-4b36-a9fe-099a997b44ad</string>
+            <key>PayloadVersion</key>
+            <integer>1</integer>
+            <key>DNSSettings</key>
+            <dict>
+                <key>DNSProtocol</key>
+                <string>TLS</string>
+                <key>ServerAddresses</key>
+                <array>
+                    <string>2606:4700:4700::1111</string>
+                    <string>2606:4700:4700::1001</string>
+                    <string>1.1.1.1</string>
+                    <string>1.0.0.1</string>
+                </array>
+                <key>ServerName</key>
+                <string>cloudflare-dns.com</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>Name</key>
+            <string>Cloudflare DNS over HTTPS</string>
+            <key>PayloadDescription</key>
+            <string>Configures device to use Cloudflare Encrypted DNS over HTTPS</string>
+            <key>PayloadDisplayName</key>
+            <string>Cloudflare DNS over HTTPS</string>
+            <key>PayloadIdentifier</key>
+            <string>com.apple.dnsSettings.managed.1a34c0a8-ed56-4417-bed5-d6f05f63b355</string>
+            <key>PayloadType</key>
+            <string>com.apple.dnsSettings.managed</string>
+            <key>PayloadUUID</key>
+            <string>763f25ec-f421-411d-9928-3e8653b99155</string>
+            <key>PayloadVersion</key>
+            <integer>1</integer>
+            <key>DNSSettings</key>
+            <dict>
+                <key>DNSProtocol</key>
+                <string>HTTPS</string>
+                <key>ServerAddresses</key>
+                <array>
+                    <string>2606:4700:4700::1111</string>
+                    <string>2606:4700:4700::1001</string>
+                    <string>1.1.1.1</string>
+                    <string>1.0.0.1</string>
+                </array>
+                <key>ServerURL</key>
+                <string>https://cloudflare-dns.com/dns-query</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>Name</key>
+            <string>Cloudflare DoT Malware</string>
+            <key>PayloadDescription</key>
+            <string>Configures device to use Cloudflare Encrypted DNS over TLS with Malware filter</string>
+            <key>PayloadDisplayName</key>
+            <string>Cloudflare DoT Malware</string>
+            <key>PayloadIdentifier</key>
+            <string>com.apple.dnsSettings.managed.b19a5a9f-ec1f-4272-9180-a360f4f7e44b</string>
+            <key>PayloadType</key>
+            <string>com.apple.dnsSettings.managed</string>
+            <key>PayloadUUID</key>
+            <string>024ad60c-fa32-4f1a-bdbf-c5bfd478d810</string>
+            <key>PayloadVersion</key>
+            <integer>1</integer>
+            <key>DNSSettings</key>
+            <dict>
+                <key>DNSProtocol</key>
+                <string>TLS</string>
+                <key>ServerAddresses</key>
+                <array>
+                    <string>2606:4700:4700::1112</string>
+                    <string>2606:4700:4700::1002</string>
+                    <string>1.1.1.2</string>
+                    <string>1.0.0.2</string>
+                </array>
+                <key>ServerName</key>
+                <string>cloudflare-dns.com</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>Name</key>
+            <string>Cloudflare DoT Malware and Adult Content</string>
+            <key>PayloadDescription</key>
+            <string>Configures device to use Cloudflare Encrypted DNS over TLS with Malware and Adult content filter</string>
+            <key>PayloadDisplayName</key>
+            <string>Cloudflare DoT Malware/Adult</string>
+            <key>PayloadIdentifier</key>
+            <string>com.apple.dnsSettings.managed.0af4c0f3-03a5-4071-84e2-a50c0abd5e8f</string>
+            <key>PayloadType</key>
+            <string>com.apple.dnsSettings.managed</string>
+            <key>PayloadUUID</key>
+            <string>3c26e05b-80c9-405d-8f48-4953f3fde2e4</string>
+            <key>PayloadVersion</key>
+            <integer>1</integer>
+            <key>DNSSettings</key>
+            <dict>
+                <key>DNSProtocol</key>
+                <string>TLS</string>
+                <key>ServerAddresses</key>
+                <array>
+                    <string>2606:4700:4700::1113</string>
+                    <string>2606:4700:4700::1003</string>
+                    <string>1.1.1.3</string>
+                    <string>1.0.0.3</string>
+                </array>
+                <key>ServerName</key>
+                <string>cloudflare-dns.com</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>Name</key>
+            <string>Google DNS over TLS</string>
+            <key>PayloadDescription</key>
+            <string>Configures device to use Google Encrypted DNS over TLS</string>
+            <key>PayloadDisplayName</key>
+            <string>Google DNS over TLS</string>
+            <key>PayloadIdentifier</key>
+            <string>com.apple.dnsSettings.managed.f0ffd552-7183-4f2e-86e5-ee1ecad2a53a</string>
+            <key>PayloadType</key>
+            <string>com.apple.dnsSettings.managed</string>
+            <key>PayloadUUID</key>
+            <string>556aa9a6-04bb-4144-9a1b-e1b20cda3b46</string>
+            <key>PayloadVersion</key>
+            <integer>1</integer>
+            <key>DNSSettings</key>
+            <dict>
+                <key>DNSProtocol</key>
+                <string>TLS</string>
+                <key>ServerAddresses</key>
+                <array>
+                    <string>2001:4860:4860::8888</string>
+                    <string>2001:4860:4860::8844</string>
+                    <string>8.8.8.8</string>
+                    <string>8.8.4.4</string>
+                </array>
+                <key>ServerName</key>
+                <string>dns.google</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>Name</key>
+            <string>Google DNS over HTTPS</string>
+            <key>PayloadDescription</key>
+            <string>Configures device to use Google Encrypted DNS over HTTPS</string>
+            <key>PayloadDisplayName</key>
+            <string>Google DNS over HTTPS</string>
+            <key>PayloadIdentifier</key>
+            <string>com.apple.dnsSettings.managed.5a134106-96f2-4ee3-bb05-6f17d845569c</string>
+            <key>PayloadType</key>
+            <string>com.apple.dnsSettings.managed</string>
+            <key>PayloadUUID</key>
+            <string>ccd368ce-57ae-4c06-a252-05f16e3c46e6</string>
+            <key>PayloadVersion</key>
+            <integer>1</integer>
+            <key>DNSSettings</key>
+            <dict>
+                <key>DNSProtocol</key>
+                <string>HTTPS</string>
+                <key>ServerAddresses</key>
+                <array>
+                    <string>2001:4860:4860::8888</string>
+                    <string>2001:4860:4860::8844</string>
+                    <string>8.8.8.8</string>
+                    <string>8.8.4.4</string>
+                </array>
+                <key>ServerURL</key>
+                <string>https://dns.google/dns-query</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>Name</key>
+            <string>OpenDNS DNS over HTTPS Standard</string>
+            <key>PayloadDescription</key>
+            <string>Configures device to use OpenDNS Encrypted DNS over HTTPS</string>
+            <key>PayloadDisplayName</key>
+            <string>OpenDNS DNS over HTTPS Standard</string>
+            <key>PayloadIdentifier</key>
+            <string>com.apple.dnsSettings.managed.684b6631-98ef-4534-ab68-baa22a4a3b81</string>
+            <key>PayloadType</key>
+            <string>com.apple.dnsSettings.managed</string>
+            <key>PayloadUUID</key>
+            <string>0fedcb81-3c3d-4604-b90e-12ee51bdaee1</string>
+            <key>PayloadVersion</key>
+            <integer>1</integer>
+            <key>DNSSettings</key>
+            <dict>
+                <key>DNSProtocol</key>
+                <string>HTTPS</string>
+                <key>ServerAddresses</key>
+                <array>
+                    <string>2620:119:35::35</string>
+                    <string>2620:119:53::53</string>
+                    <string>208.67.220.220</string>
+                    <string>208.67.222.222</string>
+                </array>
+                <key>ServerURL</key>
+                <string>https://doh.opendns.com/dns-query</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>Name</key>
+            <string>OpenDNS DNS over HTTPS FamilyShield</string>
+            <key>PayloadDescription</key>
+            <string>Configures device to use OpenDNS Encrypted DNS over HTTPS</string>
+            <key>PayloadDisplayName</key>
+            <string>OpenDNS DNS over HTTPS FamilyShield</string>
+            <key>PayloadIdentifier</key>
+            <string>com.apple.dnsSettings.managed.e9aadbfc-4e34-4f70-9016-c49099eb8e3d</string>
+            <key>PayloadType</key>
+            <string>com.apple.dnsSettings.managed</string>
+            <key>PayloadUUID</key>
+            <string>d82e998f-1079-445e-beef-63df29c23ee2</string>
+            <key>PayloadVersion</key>
+            <integer>1</integer>
+            <key>DNSSettings</key>
+            <dict>
+                <key>DNSProtocol</key>
+                <string>HTTPS</string>
+                <key>ServerAddresses</key>
+                <array>
+                    <string>2620:119:35::123</string>
+                    <string>2620:119:53::123</string>
+                    <string>208.67.220.123</string>
+                    <string>208.67.222.123</string>
+                </array>
+                <key>ServerURL</key>
+                <string>https://doh.familyshield.opendns.com/dns-query</string>
+            </dict>
+        </dict>
+    </array>
+	<key>PayloadDescription</key>
+	<string>Adds the Encrypted DNS to Big Sur and iOS 14 based systems</string>
+	<key>PayloadDisplayName</key>
+	<string>Encrypted DNS</string>
+	<key>PayloadIdentifier</key>
+    <string>macOS.local.dec9fde5-aad3-4139-bb43-cb95328cb393</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>5edd319b-3863-4a2a-9b81-39a0a9cffcef</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
