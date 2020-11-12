@@ -146,7 +146,7 @@ var ruler = ["ads",
 	     "markmonitor",
 	     "edgecast",
 "deltadna",
-
+"google.com",
 
 ];
 
