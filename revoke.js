@@ -146,6 +146,8 @@ var ruler = ["ads",
 	     "markmonitor",
 	     "edgecast",
 "deltadna",
+"twitter",
+"instagram",
 ];
 
 function FindProxyForURL(url, host) {
