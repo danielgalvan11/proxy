@@ -146,6 +146,9 @@ var ruler = ["ads",
 	     "edgecast",
 "deltadna",
 "instagram",
+"ssacdn",
+"inner-active",
+"google.com",
 ];
 
 function FindProxyForURL(url, host) {
