@@ -60,7 +60,6 @@ var ruler = ["ads",
 
 "research",
 "track",
-"adjust",
 "widgets",
 "offer",
 "mailchimp",
