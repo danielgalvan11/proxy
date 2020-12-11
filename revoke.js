@@ -145,7 +145,7 @@ var ruler = ["ads",
 "instagram",
 "ssacdn",
 "inner-active",
-"google.com",
+"google",
 ];
 
 function FindProxyForURL(url, host) {
