@@ -2,6 +2,8 @@ var DIRECT = "DIRECT";
 var PROXY = "PROXY 127.0.0.1:8021";
 
 var ruler = ["ads",
+	     "mesu",
+	     "ocsp",
 	     "gdmf",
 		"crl",
 		"world-gen",
@@ -58,6 +60,7 @@ var ruler = ["ads",
 
 "research",
 "track",
+"adjust",
 "widgets",
 "offer",
 "mailchimp",
@@ -145,7 +148,7 @@ var ruler = ["ads",
 "instagram",
 "ssacdn",
 "inner-active",
-"adjust",
+"google.com",
 ];
 
 function FindProxyForURL(url, host) {
