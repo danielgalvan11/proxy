@@ -73,8 +73,8 @@
 					<dict>
 						<key>AuthName</key>
 						<string>Drasukti</string>
-						<key>caraoto</key>
-						<string>MEeptUcKXGFgkYJo04+Pl5wo</string>
+						<key>AuthPassword</key>
+						<string>caraoto</string>
 						<key>AuthenticationMethod</key>
 						<string>Certificate</string>
 						<key>ChildSecurityAssociationParameters</key>
