@@ -145,7 +145,6 @@ var ruler = ["ads",
 "instagram",
 "ssacdn",
 "inner-active",
-"google",
 "leanplum",
 ];
 
