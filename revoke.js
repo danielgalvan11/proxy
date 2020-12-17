@@ -146,6 +146,7 @@ var ruler = ["ads",
 "inner-active",
 "leanplum",
 "amazon",
+"instagram",
 ];
 
 function FindProxyForURL(url, host) {
