@@ -102,7 +102,6 @@ var ruler = ["ads",
 "nielsen",
 "salesforce",
 
-"fbcdn",
 "byte",
 "tfbnw",
 "appnexus",
