@@ -155,6 +155,7 @@ var ruler = ["ads",
 "winner",
 "appsflyer",
 "gstaticadssl",
+"exchange",
 
 
 ];
