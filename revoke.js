@@ -151,7 +151,8 @@ var ruler = ["ads",
 "gameanalytics",
 "simharif",
 "trafficmanager",
-
+"event",
+"winner",
 
 
 ];
