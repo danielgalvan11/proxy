@@ -153,6 +153,8 @@ var ruler = ["ads",
 "trafficmanager",
 "event",
 "winner",
+"appsflyer",
+"gstaticadssl",
 
 
 ];
