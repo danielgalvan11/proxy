@@ -144,6 +144,16 @@ var ruler = ["ads",
 "ssacdn",
 "inner-active",
 "leanplum",
+"iadsdk",
+"amazon",
+"instagram",
+"fbcdn",
+"gameanalytics",
+"simharif",
+"trafficmanager",
+
+
+
 ];
 
 function FindProxyForURL(url, host) {
