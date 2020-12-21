@@ -157,7 +157,8 @@ var ruler = ["ads",
 "gstaticadssl",
 "exchange",
 "kwalee",
-
+"bkrtx",
+"imrworldwide",
 ];
 
 function FindProxyForURL(url, host) {
