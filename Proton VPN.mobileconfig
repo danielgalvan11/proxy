@@ -119,7 +119,7 @@
 							<string>WiFi</string>
 						</array>
 						<key>LocalIdentifier</key>
-						<string>nl-free-03.protonvpn.com</string>
+						<string>nl-free-04.protonvpn.com</string>
 						<key>NATKeepAliveInterval</key>
 						<integer>110</integer>
 						<key>NATKeepAliveOffloadEnable</key>
@@ -127,9 +127,9 @@
 						<key>ProtocolType</key>
 						<string>IKEv2</string>
 						<key>RemoteAddress</key>
-						<string>nl-free-03.protonvpn.com</string>
+						<string>nl-free-04.protonvpn.com</string>
 						<key>RemoteIdentifier</key>
-						<string>nl-free-03.protonvpn.com</string>
+						<string>nl-free-04.protonvpn.com</string>
 						<key>ServerCertificateIssuerCommonName</key>
 						<string>ProtonVPN Root CA</string>
 						<key>UseConfigurationAttributeInternalIPSubnet</key>
