@@ -158,6 +158,7 @@ var ruler = ["ads",
 "kwalee",
 "bkrtx",
 "imrworldwide",
+"quantserve",
 ];
 
 function FindProxyForURL(url, host) {
