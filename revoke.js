@@ -159,6 +159,15 @@ var ruler = ["ads",
 "bkrtx",
 "imrworldwide",
 "quantserve",
+"googlesyndication",
+"colordefense",
+"your-server",
+"ytimg",
+"ggpht",
+"googleusercontent",
+"clients",
+"mcpeppergames",
+
 ];
 
 function FindProxyForURL(url, host) {
