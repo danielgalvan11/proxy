@@ -163,8 +163,7 @@ var ruler = ["ads",
 "colordefense",
 "your-server",
 "ggpht",
-"googleusercontent",
-"clients",
+"client",
 "mcpeppergames",
 
 ];
