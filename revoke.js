@@ -162,7 +162,6 @@ var ruler = ["ads",
 "googlesyndication",
 "colordefense",
 "your-server",
-"ggpht",
 "googleusercontent",
 "mcpeppergames",
 
