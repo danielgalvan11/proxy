@@ -42,7 +42,6 @@ var ruler = ["ads",
 		"crash",
 		
 "collector",
-"facebook",
 
 "acloudimages",
 "mixpanel",
