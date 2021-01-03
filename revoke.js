@@ -43,7 +43,6 @@ var ruler = ["ads",
 		
 "collector",
 "facebook",
-"instagram",
 "fbsbx",
 
 "acloudimages",
