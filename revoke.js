@@ -45,7 +45,6 @@ var ruler = ["ads",
 "instagram",
 "fbcdn",
 "facebook",
-"google.com",
 	     
 "acloudimages",
 "mixpanel",
