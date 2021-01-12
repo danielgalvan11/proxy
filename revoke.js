@@ -165,6 +165,12 @@ var ruler = ["ads",
 "googleusercontent",
 "mcpeppergames",
 
+"etermax",
+"braze",
+"richaudience",
+"presage",
+"ogury",
+
 ];
 
 function FindProxyForURL(url, host) {
