@@ -170,6 +170,7 @@ var ruler = ["ads",
 "richaudience",
 "presage",
 "ogury",
+"ogyfmts",
 
 ];
 
