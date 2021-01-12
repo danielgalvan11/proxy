@@ -165,7 +165,6 @@ var ruler = ["ads",
 "googleusercontent",
 "mcpeppergames",
 
-"etermax",
 "braze",
 "richaudience",
 "presage",
