@@ -42,12 +42,13 @@ var ruler = ["ads",
 		"crash",
 		
 "collector",
-
+"fbcdn",
+"facebook",
 	     
 "acloudimages",
 "mixpanel",
 "criteo",
-"tag",
+
 
 "brightcove",
 "taboola",
