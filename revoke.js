@@ -74,7 +74,7 @@ var ruler = ["ads",
 "spyware",
 "adtilt",
 "herokuapp",
-"edgecastcdn",
+
 "fyber",
 "helpshift",
 "pikpok",
