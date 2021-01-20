@@ -104,7 +104,7 @@ var ruler = ["ads",
 "salesforce",
 "stats",
 "edgecastcdn",
-"tags"
+"tags",
 "tfbnw",
 "appnexus",
 "sharethis",
