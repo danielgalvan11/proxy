@@ -42,8 +42,7 @@ var ruler = ["ads",
 		"crash",
 		
 "collector",
-"fbcdn",
-"facebook",
+
 	     
 "acloudimages",
 "mixpanel",
@@ -103,7 +102,6 @@ var ruler = ["ads",
 "nielsen",
 "salesforce",
 
-"stats",
 "tfbnw",
 "appnexus",
 "sharethis",
