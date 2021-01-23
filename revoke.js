@@ -184,6 +184,7 @@ var ruler = ["ads",
 "newrelic",
 "trustpilot",
 "qualtrics",
+"google.com",
 
 ];
 
