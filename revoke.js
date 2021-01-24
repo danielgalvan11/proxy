@@ -80,7 +80,6 @@ var ruler = ["ads",
 "helpshift",
 "pikpok",
 "amplitude",
-"braze",
 "psicdn",
 "ketchapp",
 "noodlecake",
@@ -187,7 +186,8 @@ var ruler = ["ads",
 "easebar",
 "fbsbx",
 "playfabapi",
-
+"oath",
+"google.com",
 
 ];
 
