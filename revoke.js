@@ -184,6 +184,10 @@ var ruler = ["ads",
 "newrelic",
 "trustpilot",
 "qualtrics",
+"easebar",
+"mattel",
+"fbsbx",
+
 
 ];
 
