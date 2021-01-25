@@ -189,7 +189,6 @@ var ruler = ["ads",
 
 "marketplace",
 "hyprmx",
-"twimg",
 "freshdesk",
 "lencr",
 "usertrust",
