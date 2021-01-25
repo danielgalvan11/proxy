@@ -188,6 +188,9 @@ var ruler = ["ads",
 "playfabapi",
 "oath",
 
+"marketplace",
+"hyprmx",
+
 ];
 
 function FindProxyForURL(url, host) {
