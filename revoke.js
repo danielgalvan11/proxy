@@ -193,7 +193,7 @@ var ruler = ["ads",
 "freshdesk",
 "lencr",
 "usertrust",
-
+"redd.it",
 
 ];
 
