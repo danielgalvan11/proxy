@@ -134,7 +134,6 @@ var ruler = ["ads",
 	     "saygames",
 	     "saypromo",
 	     "digitalocean",
-	     "hwcdn",
 	     "snssdk",
 	     "saymediation",
 	     "markmonitor",
@@ -190,6 +189,11 @@ var ruler = ["ads",
 
 "marketplace",
 "hyprmx",
+"twimg",
+"freshdesk",
+"lencr",
+"usertrust",
+
 
 ];
 
