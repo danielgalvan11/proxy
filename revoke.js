@@ -187,7 +187,6 @@ var ruler = ["ads",
 "fbsbx",
 "playfabapi",
 "oath",
-"google.com",
 
 ];
 
