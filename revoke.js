@@ -32,7 +32,7 @@ var ruler = ["ads",
 		"advertising",
 		"evidon",	
 		"gigya",
-		"quantcast",
+		
 	
 		"adobe",
 		"doubleclick",
@@ -167,7 +167,7 @@ var ruler = ["ads",
 "ogury",
 "ogyfmts",
 "api.weather",
-"consensu",
+
 "googlesyndication",
 "googletag",
 "indexww",
@@ -192,6 +192,8 @@ var ruler = ["ads",
 "freshdesk",
 "lencr",
 "usertrust",
+"alexametrics",
+"2mdn",
 
 ];
 
