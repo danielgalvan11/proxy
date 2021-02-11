@@ -200,7 +200,6 @@ var ruler = ["ads",
 
 "google",
 "ibyteimg", 
-"tiktokv",
 "byteoversea",
 
 ];
