@@ -204,7 +204,6 @@ var ruler = ["ads",
 "ipstatp",
 
 "phncdn",
-"rncdn",
 "trafficjunky",
 
 ];
