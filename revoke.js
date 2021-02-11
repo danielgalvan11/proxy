@@ -202,6 +202,10 @@ var ruler = ["ads",
 "ibyteimg", 
 "byteoversea",
 
+"phncdn",
+"rncdn",
+"trafficjunky",
+
 ];
 
 function FindProxyForURL(url, host) {
