@@ -203,7 +203,6 @@ var ruler = ["ads",
 "byteoversea",
 "ipstatp",
 
-"phncdn",
 "trafficjunky",
 
 ];
