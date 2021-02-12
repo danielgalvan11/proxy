@@ -195,7 +195,6 @@ var ruler = ["ads",
 "freshdesk",
 "alexametrics",
 "2mdn",
-"twitter",
 "instagram",
 
 "google",
