@@ -197,7 +197,7 @@ var ruler = ["ads",
 "2mdn",
 "instagram",
 
-"google",
+"twitter",
 "ibyte", 
 "byteoversea",
 "ipstatp",
