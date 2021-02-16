@@ -199,7 +199,10 @@ var ruler = ["ads",
 "byteoversea",
 "ipstatp",
 
+"voodoo",
 "trafficjunky",
+"qq",
+
 
 ];
 
