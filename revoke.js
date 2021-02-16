@@ -212,6 +212,7 @@ var ruler = ["ads",
 "bidmachine",
 "metrics",
 "zendesk",
+"instagram",
 
 
 
