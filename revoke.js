@@ -205,6 +205,7 @@ var ruler = ["ads",
 "dsc",
 "smaato",
 "google",
+"gjg",
 
 
 ];
