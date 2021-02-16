@@ -204,6 +204,7 @@ var ruler = ["ads",
 "qq",
 "dsc",
 "smaato",
+"google",
 
 
 ];
