@@ -206,6 +206,14 @@ var ruler = ["ads",
 "smaato",
 "google",
 "gjg",
+"appodealx",
+"easybrain",
+"pubnative",
+"bidmachine",
+"metrics",
+"zendesk",
+
+
 
 
 ];
