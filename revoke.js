@@ -213,7 +213,10 @@ var ruler = ["ads",
 "metrics",
 "zendesk",
 "instagram",
-
+"anythinktech",
+"joypac",
+"rollic",
+"appcenter",
 
 
 
