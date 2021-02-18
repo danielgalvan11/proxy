@@ -220,7 +220,8 @@ var ruler = ["ads",
 "snapkit",
 "worldfcdn",
 "cdn77",
-
+"scdn",
+"tiktokv",
 
 ];
 
