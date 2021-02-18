@@ -221,7 +221,6 @@ var ruler = ["ads",
 "worldfcdn",
 "cdn77",
 "scdn",
-"tiktokv",
 
 ];
 
