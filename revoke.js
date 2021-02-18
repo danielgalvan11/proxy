@@ -218,7 +218,6 @@ var ruler = ["ads",
 "rollic",
 "appcenter",
 "tiktokv",
-"bytedance",
 "rsc",
 
 
