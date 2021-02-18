@@ -217,6 +217,9 @@ var ruler = ["ads",
 "joypac",
 "rollic",
 "appcenter",
+"snapkit",
+"tiktokv",
+
 
 
 ];
