@@ -218,6 +218,7 @@ var ruler = ["ads",
 "appcenter",
 "snapkit",
 "worldfcdn",
+"instagram",
 
 ];
 
