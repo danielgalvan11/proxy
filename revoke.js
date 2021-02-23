@@ -219,6 +219,10 @@ var ruler = ["ads",
 "worldfcdn",
 "instagram",
 "apptimize",
+"geoplugin",
+"ipify",
+"pki",
+"safedk",
 
 ];
 
