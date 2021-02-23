@@ -223,6 +223,8 @@ var ruler = ["ads",
 "ipify",
 "pki",
 "safedk",
+"pubsub",
+"tube",
 
 ];
 
