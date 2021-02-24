@@ -203,7 +203,7 @@ var ruler = ["ads",
 "trafficjunky",
 "qq",
 "smaato",
-"google",
+
 "gjg",
 "appodealx",
 "easybrain",
@@ -224,7 +224,6 @@ var ruler = ["ads",
 "pki",
 "safedk",
 "pubsub",
-"tube",
 
 ];
 
