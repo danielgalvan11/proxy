@@ -33,7 +33,6 @@ var ruler = ["ads",
 		"alytics",
 		"advertising",
 		"evidon",	
-		"gigya",
 		
 	
 		"adobe",
