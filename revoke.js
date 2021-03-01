@@ -185,7 +185,6 @@ var ruler = ["ads",
 "trustpilot",
 "qualtrics",
 "easebar",
-"fbsbx",
 "playfabapi",
 "oath",
 
