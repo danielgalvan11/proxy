@@ -118,7 +118,6 @@ var ruler = ["ads",
 	     "pangle",
 	     "saygames",
 	     "saypromo",
-	     "digitalocean",
 
 	     "saymediation",
 	     "markmonitor",
