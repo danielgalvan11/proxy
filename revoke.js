@@ -66,7 +66,6 @@ var ruler = ["ads",
 "offer",
 "mailchimp",
 "taboo",
-"firebase",
 "yahoo",
 
 "office",
