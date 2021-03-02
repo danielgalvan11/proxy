@@ -175,7 +175,6 @@ var ruler = ["ads",
 
 "jtvnw",
 
-"t.co",
 
 ];
 
