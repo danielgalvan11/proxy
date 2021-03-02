@@ -133,7 +133,7 @@ var ruler = ["ads",
 "gstaticadssl",
 
 "googlesyndication",
-
+"googletag",
 "googleusercontent",
 
 
@@ -144,8 +144,7 @@ var ruler = ["ads",
 "ogyfmts",
 "api.weather",
 
-"googlesyndication",
-"googletag",
+
 	     
 "indexww",
 "springserve",
