@@ -173,6 +173,8 @@ var ruler = ["ads",
 "voodoo",
 "trafficjunky",
 
+"jtvnw",
+
 "t.co",
 
 ];
