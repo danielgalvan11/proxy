@@ -43,7 +43,6 @@ var ruler = ["ads",
 		"crash",
 		
 "collector",
-"fbcdn",
 "facebook",
 "whatsapp",
 	     
