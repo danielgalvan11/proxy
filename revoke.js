@@ -120,6 +120,9 @@ var ruler = ["ads",
 
 	     "saymediation",
 
+             "markmonitor",
+ 	     "edgecast",
+
 "iadsdk",
 "gameanalytics",
 
