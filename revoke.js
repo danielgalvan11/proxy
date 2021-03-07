@@ -125,7 +125,8 @@ var ruler = ["ads",
 "iadsdk",
 "gameanalytics",
 
-"fb",
+"fbsbx",
+"fbcdn",
 
 "appsflyer",
 "gstaticadssl",
