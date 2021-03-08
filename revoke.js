@@ -48,6 +48,8 @@ var ruler = ["ads",
 "firebase",
 "snapkit",
 "mqou0t73",
+"safebrowsing",
+
 
 "acloudimages",
 "mixpanel",
