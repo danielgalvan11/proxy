@@ -45,8 +45,12 @@ var ruler = ["ads",
 "collector",
 "facebook",
 "whatsapp",
+"appcenter",
+"firebase",
+"cdninstagram",
 
-	     
+"mqou0t73",
+
 "acloudimages",
 "mixpanel",
 "criteo",
