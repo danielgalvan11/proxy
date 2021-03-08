@@ -44,6 +44,7 @@ var ruler = ["ads",
 		
 "collector",
 "facebook",
+"whatsapp",
 
 	     
 "acloudimages",
