@@ -47,7 +47,6 @@ var ruler = ["ads",
 "whatsapp",
 "appcenter",
 "firebase",
-"cdninstagram",
 
 "mqou0t73",
 
