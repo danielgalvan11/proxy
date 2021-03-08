@@ -46,7 +46,7 @@ var ruler = ["ads",
 "facebook",
 "appcenter",
 "firebase",
-
+"tiktokv",
 "mqou0t73",
 
 "acloudimages",
