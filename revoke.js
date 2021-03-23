@@ -178,7 +178,6 @@ var ruler = ["ads",
 "voodoo",
 "trafficjunky",
 "newdreamglobal",
-"king.com",
 
 
 
