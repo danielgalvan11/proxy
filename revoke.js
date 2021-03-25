@@ -178,7 +178,9 @@ var ruler = ["ads",
 "voodoo",
 "trafficjunky",
 "newdreamglobal",
-
+"footprint",
+"onetrust",
+"play.king",
 
 
 ];
