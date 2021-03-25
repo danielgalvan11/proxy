@@ -182,7 +182,6 @@ var ruler = ["ads",
 "onetrust",
 "play.king",
 "ams.king",
-"King",
 
 ];
 
