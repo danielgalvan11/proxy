@@ -180,6 +180,8 @@ var ruler = ["ads",
 "newdreamglobal",
 "footprint",
 "onetrust",
+"play.king",
+ "ams.king",
 
 
 ];
