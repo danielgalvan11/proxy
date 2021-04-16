@@ -180,6 +180,7 @@ var ruler = ["ads",
 "newdreamglobal",
 "onetrust",
 "haoictdev",
+"sentry",
 
 ];
 
