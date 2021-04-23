@@ -181,6 +181,11 @@ var ruler = ["ads",
 "onetrust",
 "haoictdev",
 "sentry",
+"aan",
+"luckyorange",
+"bugsnag",
+"yandex",
+
 
 ];
 
