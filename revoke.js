@@ -55,6 +55,7 @@ var ruler = ["ads",
 "mixpanel",
 "criteo",
 
+"Twitter",
 
 "brightcove",
 "taboola",
