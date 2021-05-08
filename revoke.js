@@ -139,6 +139,7 @@ var ruler = ["ads",
 "googletag",
 "googleusercontent",
 
+"fbcdn",
 
 "braze",
 "richaudience",
