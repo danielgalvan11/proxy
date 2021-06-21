@@ -137,7 +137,6 @@ var ruler = ["ads",
 
 "googlesyndication",
 "googletag",
-"googleusercontent",
 
 
 "braze",
