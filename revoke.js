@@ -70,7 +70,6 @@ var ruler = ["ads",
 "offer",
 "mailchimp",
 "taboo",
-"yahoo",
 
 "office",
 "chartboost",
@@ -126,7 +125,6 @@ var ruler = ["ads",
 	     "saymediation",
 
              "markmonitor",
- 	     "edgecast",
 
 "iadsdk",
 "gameanalytics",
@@ -137,6 +135,8 @@ var ruler = ["ads",
 
 "googlesyndication",
 "googletag",
+"Goog",
+
 
 
 "braze",
