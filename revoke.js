@@ -140,7 +140,6 @@ var ruler = ["ads",
 "presage",
 "ogury",
 "ogyfmts",
-"api.weather",
 
 
 	     
