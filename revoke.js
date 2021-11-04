@@ -180,6 +180,7 @@ var ruler = ["ads",
 "yandex",
 "naver",
 "log.snow.me",
+"api.revenuecat.com",
 
 ];
 
