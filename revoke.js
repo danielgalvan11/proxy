@@ -179,7 +179,7 @@ var ruler = ["ads",
 "bugsnag",
 "yandex",
 "naver",
-
+"log.snow.me",
 
 ];
 
