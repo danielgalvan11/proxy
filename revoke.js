@@ -178,6 +178,7 @@ var ruler = ["ads",
 "luckyorange",
 "bugsnag",
 "yandex",
+"naver",
 
 
 ];
