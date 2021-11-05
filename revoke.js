@@ -181,6 +181,10 @@ var ruler = ["ads",
 "naver",
 "log.snow.me",
 "api.revenuecat.com",
+"gjg",
+"sayollo",
+"ipify",
+"mintegral",
 
 ];
 
