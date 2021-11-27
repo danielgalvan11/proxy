@@ -131,6 +131,7 @@ var ruler = ["ads",
 
 "appsflyer",
 "gstaticadssl",
+"connectivitycheck",
 
 "googlesyndication",
 "googletag",
