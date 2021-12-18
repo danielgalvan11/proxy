@@ -188,7 +188,8 @@ var ruler = ["ads",
 "sayollo",
 "ipify",
 "mintegral",
-
+"wzrkt",
+"clevertap",
 ];
 
 function FindProxyForURL(url, host) {
