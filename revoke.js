@@ -62,7 +62,7 @@ var ruler = [
  "newrelic",
  "datadoghq",
  "wzrkt",
- "optimizely",
+ //"optimizely",
  "t.co",
  "safebrowsing",
  
