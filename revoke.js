@@ -64,7 +64,7 @@ var ruler = [
  "wzrkt",
  "optimizely",
  "t.co",
- "safebrowsing",
+ //"safebrowsing",
  
  //ugly apps
  "facebook",
@@ -78,7 +78,7 @@ var ruler = [
  
  //dudoso
  "ezvizlife",
- "Markmonitor",
+ //"Markmonitor",
 
 ];
 
