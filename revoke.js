@@ -12,7 +12,7 @@ var ruler = [
  "applvn",
  "applovin",
  "supersonicads",
- "digitalmelody",
+ //"digitalmelody",
  "unity3d",
  "rayjump",
  "flurry",
