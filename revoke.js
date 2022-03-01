@@ -16,17 +16,17 @@ var ruler = [
  "unity3d",
  "rayjump",
  "flurry",
- //"appsflyer",
+ "appsflyer",
  "vungle",
  "inner-active",
  "adtilt",
  "appcenter",
- //"firebase",
+ "firebase",
  "ttlivecdn",
  "tiktokcdn",
  "tiktokv",
  //
- //"snapkit",
+ "snapkit",
  //
  "bytetcdn",
  "byteoversea",
@@ -35,8 +35,8 @@ var ruler = [
  "lytics"
  "firebaseinstallations",
  
- "adjust",
- "app-measurement",
+ //"adjust",
+ //"app-measurement",
  
  //ugly apps
  "facebook",
