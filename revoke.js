@@ -13,7 +13,6 @@ var ruler = [
  "track",
  "cognito",
  "tag",
- "metrics",
  
  //ads
  "applvn",
@@ -59,7 +58,6 @@ var ruler = [
  "newrelic",
  "datadoghq",
  "wzrkt",
-
  
  //ugly apps
  "facebook",
@@ -67,11 +65,9 @@ var ruler = [
  "instagram",
  "mtalk.com",
  "googlesyndication",
-
  
  //dudoso
  "ezvizlife",
- "markmonitor",
 
 ];
 
