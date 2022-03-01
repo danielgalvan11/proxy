@@ -20,7 +20,7 @@ var ruler = [
  "vungle",
  "inner-active",
  "adtilt",
- "appcenter",
+// "appcenter",
  "firebase",
  "ttlivecdn",
  "tiktokcdn",
@@ -35,8 +35,8 @@ var ruler = [
  "lytics"
  "firebaseinstallations",
  
- //"adjust",
- //"app-measurement",
+ "adjust",
+ "app-measurement",
  
  //ugly apps
  "facebook",
