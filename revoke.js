@@ -47,7 +47,7 @@ var ruler = [
  "bytetcdn",
  "byteoversea",
 
- /*
+ 
  //analytics
  "firebase",
  "firebaseinstallations",
@@ -66,8 +66,8 @@ var ruler = [
  "wzrkt",
  "optimizely",
  "t.co",
- "safebrowsing",
- */
+ //"safebrowsing",
+ 
  
  //ugly apps
  "facebook",
@@ -76,7 +76,7 @@ var ruler = [
  "instagram",
  "mtalk.com",
  "googlesyndication",
- "connectivitycheck",
+ //"connectivitycheck",
  
  
  //dudoso
