@@ -62,6 +62,7 @@ var ruler = [
  "datadoghq",
  "wzrkt",
  "optimizely",
+ "t.co",
  
  //ugly apps
  "facebook",
