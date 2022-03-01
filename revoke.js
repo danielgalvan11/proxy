@@ -15,6 +15,7 @@ var ruler = [
  "tag",
  "metrics",
  "collect",
+ "log",
  
  //ads
  "applvn",
@@ -71,6 +72,7 @@ var ruler = [
  "instagram",
  "mtalk.com",
  "googlesyndication",
+  "connectivitycheck",
  
  //dudoso
  "ezvizlife",
