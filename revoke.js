@@ -66,6 +66,8 @@ var ruler = [
  "mtalk.com",
  "googlesyndication",
  
+ //dudoso
+ "ezvizlife",
 
 ];
 
