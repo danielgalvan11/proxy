@@ -68,6 +68,7 @@ var ruler = [
  
  //dudoso
  "ezvizlife",
+ "markmonitor",
 
 ];
 
