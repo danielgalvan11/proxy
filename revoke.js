@@ -13,6 +13,7 @@ var ruler = [
  "track",
  "cognito",
  "tag",
+ "stat",
  
  //ads
  "applvn",
