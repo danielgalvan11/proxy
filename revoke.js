@@ -13,6 +13,9 @@ var ruler = [
  "track",
  "cognito",
  "tag",
+ "stat",
+ "collect",
+ "log",
  
  //ads
  "applvn",
@@ -33,6 +36,7 @@ var ruler = [
  "revenuecat",
  "ip-api",
  "naver",
+ "mixpanel",
  
  //tiktok
  "ttlivecdn",
@@ -59,6 +63,7 @@ var ruler = [
  "datadoghq",
  "wzrkt",
  "safebrowsing",
+ "optimizely",
  
  //ugly apps
  "facebook",
