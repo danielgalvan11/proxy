@@ -58,7 +58,7 @@ var ruler = [
  "newrelic",
  "datadoghq",
  "wzrkt",
- "t.co",
+ //"t.co",
  //"safebrowsing",
  
  //ugly apps
@@ -71,7 +71,7 @@ var ruler = [
  
  //dudoso
  "ezvizlife",
- "markmonitor",
+ //"markmonitor",
 
 ];
 
