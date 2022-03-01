@@ -58,6 +58,8 @@ var ruler = [
  "newrelic",
  "datadoghq",
  "wzrkt",
+ "t.co",
+ "safebrowsing",
  
  //ugly apps
  "facebook",
@@ -65,9 +67,11 @@ var ruler = [
  "instagram",
  "mtalk.com",
  "googlesyndication",
+ "connectivitycheck",
  
  //dudoso
  "ezvizlife",
+ "markmonitor",
 
 ];
 
