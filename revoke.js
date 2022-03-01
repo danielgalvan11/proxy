@@ -46,6 +46,7 @@ var ruler = [
  
  //ugly apps
  "facebook",
+ "instagram",
  
 
 ];
