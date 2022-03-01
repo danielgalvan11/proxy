@@ -36,6 +36,7 @@ var ruler = [
  "revenuecat",
  "ip-api",
  "naver",
+ "mixpanel",
  
  //tiktok
  "ttlivecdn",
@@ -63,6 +64,7 @@ var ruler = [
  "wzrkt",
  "optimizely",
  "t.co",
+ "safebrowsing",
  
  //ugly apps
  "facebook",
