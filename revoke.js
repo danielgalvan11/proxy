@@ -36,6 +36,7 @@ var ruler = [
  "revenuecat",
  "ip-api",
  "naver",
+ "mixpanel",
  
  //tiktok
  "ttlivecdn",
