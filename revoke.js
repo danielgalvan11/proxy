@@ -21,18 +21,19 @@ var ruler = [
  "inner-active",
  "adtilt",
 // "appcenter",
- "firebase",
+ 
  "ttlivecdn",
  "tiktokcdn",
  "tiktokv",
  //
- "snapkit",
+ //"snapkit",
  //
  "bytetcdn",
  "byteoversea",
 
  //analytics
- "lytics"
+ "lytics",
+ //"firebase",
  "firebaseinstallations",
  
  "adjust",
