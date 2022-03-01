@@ -14,6 +14,7 @@ var ruler = [
  "cognito",
  "tag",
  "metrics",
+ "collect",
  
  //ads
  "applvn",
@@ -60,6 +61,9 @@ var ruler = [
  "newrelic",
  "datadoghq",
  "wzrkt",
+ "optimizely",
+ "t.co",
+ "safebrowsing",
  
  //ugly apps
  "facebook",
