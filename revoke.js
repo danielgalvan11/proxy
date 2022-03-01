@@ -63,7 +63,7 @@ var ruler = [
  "facebook",
  "fbsbx",
  "instagram",
- "google.com",
+ "mtalk.com",
  "googlesyndication",
  
 
