@@ -19,7 +19,7 @@ var ruler = [
  "appsflyer",
  
  "vungle",
- //"inner-active",
+ "inner-active",
  "adtilt",
  "appcenter",
  
