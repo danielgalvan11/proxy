@@ -64,6 +64,7 @@ var ruler = [
  "fbsbx",
  "instagram",
  "mtalk.com",
+ "googlesyndication",
  
 
 ];
