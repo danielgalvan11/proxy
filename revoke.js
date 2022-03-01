@@ -7,8 +7,14 @@ var ruler = [
  "mesu",
  "ocsp",
  
- //ads
+ //keywords
  "ads",
+ "lytics",
+ "track",
+ "cognito",
+ "tag",
+ 
+ //ads
  "applvn",
  "applovin",
  "supersonicads",
@@ -26,6 +32,7 @@ var ruler = [
  "pubnative",
  "revenuecat",
  "ip-api",
+ "naver",
  
  //tiktok
  "ttlivecdn",
@@ -36,7 +43,6 @@ var ruler = [
  "byteoversea",
 
  //analytics
- "lytics",
  "firebase",
  "firebaseinstallations",
  "adjust",
@@ -47,13 +53,18 @@ var ruler = [
  "braze",
  "device-provisioning",
  "aatkit",
- "track",
- "cognito",
+ "ntp",
+ "branch",
+ "newrelic",
+ "datadoghq",
+ "wzrkt",
  
  //ugly apps
  "facebook",
+ "fbsbx",
  "instagram",
  "google.com",
+ "googlesyndication",
  
 
 ];
