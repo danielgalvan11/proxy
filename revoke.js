@@ -2,7 +2,7 @@ var DIRECT = "DIRECT";
 var PROXY = "PROXY 127.0.0.1:8021";
 
 var ruler = [
- 
+ /*
  //apple
  "mesu",
  "ocsp",
@@ -38,6 +38,7 @@ var ruler = [
  "ip-api",
  "naver",
  "mixpanel",
+ */
  
  //tiktok
  "ttlivecdn",
