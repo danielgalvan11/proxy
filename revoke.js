@@ -59,7 +59,7 @@ var ruler = [
  "datadoghq",
  "wzrkt",
  "t.co",
- "safebrowsing",
+ //"safebrowsing",
  
  //ugly apps
  "facebook",
@@ -67,7 +67,7 @@ var ruler = [
  "instagram",
  "mtalk.com",
  "googlesyndication",
- "connectivitycheck",
+ //"connectivitycheck",
  
  //dudoso
  "ezvizlife",
