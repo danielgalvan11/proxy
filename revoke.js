@@ -21,7 +21,7 @@ var ruler = [
  "vungle",
  //"inner-active",
  "adtilt",
- //"appcenter",
+ "appcenter",
  
  "ttlivecdn",
  "tiktokcdn",
