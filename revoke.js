@@ -2,7 +2,7 @@ var DIRECT = "DIRECT";
 var PROXY = "PROXY 127.0.0.1:8021";
 
 var ruler = [
- 
+ /*
  //apple
  "mesu",
  "ocsp",
@@ -12,7 +12,7 @@ var ruler = [
  "applvn",
  "applovin",
  "supersonicads",
- //"digitalmelody",
+ "digitalmelody",
  "unity3d",
  "rayjump",
  "flurry",
@@ -20,20 +20,18 @@ var ruler = [
  "vungle",
  "inner-active",
  "adtilt",
-// "appcenter",
+ "appcenter",
  
  "ttlivecdn",
  "tiktokcdn",
  "tiktokv",
- //
- //"snapkit",
- //
+ "snapkit",
  "bytetcdn",
  "byteoversea",
 
  //analytics
  "lytics",
- //"firebase",
+ "firebase",
  "firebaseinstallations",
  
  "adjust",
@@ -41,7 +39,7 @@ var ruler = [
  
  //ugly apps
  "facebook",
- 
+ */
 
 ];
 
