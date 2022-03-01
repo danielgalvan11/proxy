@@ -66,7 +66,7 @@ var ruler = [
  "wzrkt",
  "optimizely",
  "t.co",
- //"safebrowsing",
+ "safebrowsing",
  
  
  //ugly apps
@@ -76,12 +76,11 @@ var ruler = [
  "instagram",
  "mtalk.com",
  "googlesyndication",
- //"connectivitycheck",
+ "connectivitycheck",
  
  
  //dudoso
  "ezvizlife",
- "markmonitor",
 
 ];
 
