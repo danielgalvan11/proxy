@@ -65,6 +65,7 @@ var ruler = [
  
  //ugly apps
  "facebook",
+ "fbcdn",
  "fbsbx",
  "instagram",
  "mtalk.com",
