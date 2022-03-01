@@ -17,12 +17,14 @@ var ruler = [
  "rayjump",
  "flurry",
  "appsflyer",
- 
  "vungle",
  "active.mobi",
  "adtilt",
  "appcenter",
+ "doubleclick",
+ "sentry",
  
+ //tiktok
  "ttlivecdn",
  "tiktokcdn",
  "tiktokv",
@@ -34,9 +36,13 @@ var ruler = [
  "lytics",
  "firebase",
  "firebaseinstallations",
- 
  "adjust",
  "app-measurement",
+ "exp.host",
+ "expo.io",
+ "apptimize",
+ "braze",
+ "device-provisioning",
  
  //ugly apps
  "facebook",
