@@ -13,11 +13,7 @@ var ruler = [
  "track",
  "cognito",
  "tag",
- "stat",
- "collect",
- "log",
-
-
+ 
  //ads
  "applvn",
  "applovin",
@@ -37,8 +33,7 @@ var ruler = [
  "revenuecat",
  "ip-api",
  "naver",
- "mixpanel",
- */
+ 
  //tiktok
  "ttlivecdn",
  "tiktokcdn",
@@ -47,7 +42,6 @@ var ruler = [
  "bytetcdn",
  "byteoversea",
 
- 
  //analytics
  "firebase",
  "firebaseinstallations",
@@ -64,20 +58,13 @@ var ruler = [
  "newrelic",
  "datadoghq",
  "wzrkt",
- "optimizely",
- "t.co",
- "safebrowsing",
- 
  
  //ugly apps
  "facebook",
- "fbcdn",
  "fbsbx",
  "instagram",
  "mtalk.com",
  "googlesyndication",
- "connectivitycheck",
- 
  
  //dudoso
  "ezvizlife",
