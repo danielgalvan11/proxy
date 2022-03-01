@@ -6,7 +6,7 @@ var ruler = [
  //apple
  "mesu",
  "ocsp",
- /*
+ 
  //keywords
  "ads",
  "lytics",
@@ -16,7 +16,7 @@ var ruler = [
  "stat",
  "collect",
  "log",
-*/
+
 
  //ads
  "applvn",
@@ -79,7 +79,7 @@ var ruler = [
  
  //dudoso
  "ezvizlife",
- "markmonitor",
+ //"markmonitor",
 
 ];
 
