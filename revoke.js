@@ -23,6 +23,9 @@ var ruler = [
  "appcenter",
  "doubleclick",
  "sentry",
+ "pubnative",
+ "revenuecat",
+ "ip-api",
  
  //tiktok
  "ttlivecdn",
@@ -43,10 +46,14 @@ var ruler = [
  "apptimize",
  "braze",
  "device-provisioning",
+ "aatkit",
+ "track",
+ "cognito",
  
  //ugly apps
  "facebook",
  "instagram",
+ "google.com",
  
 
 ];
