@@ -73,6 +73,8 @@ var ruler = [
  "instagram",
  "mtalk.com",
  "googlesyndication",
+ "connectivitycheck",
+ 
  
  //dudoso
  "ezvizlife",
