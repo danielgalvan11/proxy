@@ -17,11 +17,12 @@ var ruler = [
  "rayjump",
  "flurry",
  "appsflyer",
+ /*
  "vungle",
  "inner-active",
  "adtilt",
  "appcenter",
- /*
+ */
  "ttlivecdn",
  "tiktokcdn",
  "tiktokv",
@@ -39,7 +40,7 @@ var ruler = [
  
  //ugly apps
  "facebook",
- */
+ 
 
 ];
 
