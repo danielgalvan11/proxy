@@ -17,12 +17,12 @@ var ruler = [
  "rayjump",
  "flurry",
  "appsflyer",
- /*
+ 
  "vungle",
- "inner-active",
+ //"inner-active",
  "adtilt",
- "appcenter",
- */
+ //"appcenter",
+ 
  "ttlivecdn",
  "tiktokcdn",
  "tiktokv",
