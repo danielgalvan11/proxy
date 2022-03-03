@@ -76,6 +76,7 @@ var ruler = [
  "trafficmanager",
  "appcenter",
  "bugsnag",
+ "syndication",
 
 
  
