@@ -13,7 +13,7 @@ var ruler = [
  "track",
  "cognito",
  "tag",
- //"stat",
+ "stats",
  "collect",
  "log",
  
@@ -37,15 +37,15 @@ var ruler = [
  "ip-api",
  "naver",
  "mixpanel",
+ "mxpnl",
+ "admob",
+ "parsely",
+ "trafficjunky",
+ "brightcove",
+ "criterio",
+ "taboola",
  
- //tiktok
- "ttlivecdn",
- "tiktokcdn",
- "tiktokv",
- "snapkit",
- "bytetcdn",
- "byteoversea",
-
+ 
  //analytics
  "firebase",
  "firebaseinstallations",
@@ -66,6 +66,7 @@ var ruler = [
  "optimizely",
  "onesignal",
  "amplitude",
+ "sharethis",
 
  
  //ugly apps
@@ -76,6 +77,16 @@ var ruler = [
  "googlesyndication",
  "connectivitycheck",
  
+
+ //tiktok
+ "ttlivecdn",
+ "tiktokcdn",
+ "tiktokv",
+ "snapkit",
+ "bytetcdn",
+ "byteoversea",
+
+
  //dudoso
  "ezvizlife",
  "markmonitor",
