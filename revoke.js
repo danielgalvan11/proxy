@@ -54,8 +54,8 @@ var ruler = [
 
  
  //analytics
- "firebase",
- "firebaseinstallations",
+ //"firebase",
+ //"firebaseinstallations",
  "adjust",
  "app-measurement",
  "exp.host",
