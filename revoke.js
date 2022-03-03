@@ -45,6 +45,7 @@ var ruler = [
  "brightcove",
  "criterio",
  "taboola",
+ "algolia",
  
  
  //analytics
