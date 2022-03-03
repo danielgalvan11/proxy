@@ -13,10 +13,10 @@ var ruler = [
  "track",
  "cognito",
  "tag",
-/*
+
  "stat",
  "collect",
- "log",*/
+ "log",
  
  //ads
  "applvn",
