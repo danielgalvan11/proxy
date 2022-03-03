@@ -46,7 +46,11 @@ var ruler = [
  "criterio",
  "taboola",
  "algolia",
- 
+ "adcolony",
+ "fyber",
+ "tapjoy",
+ "tritondigital",
+
  
  //analytics
  "firebase",
@@ -69,6 +73,8 @@ var ruler = [
  "onesignal",
  "amplitude",
  "sharethis",
+ "trafficmanager",
+ "appcenter",
 
  
  //ugly apps
