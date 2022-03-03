@@ -8,7 +8,6 @@ var ruler = [
  "ocsp",
  
  //keywords
-/*
  "ads",
  "lytics",
  "track",
@@ -17,7 +16,7 @@ var ruler = [
  "stats",
  "collect",
  "log",
- */
+ 
  //ads
  "applvn",
  "applovin",
@@ -46,7 +45,7 @@ var ruler = [
  "criterio",
  "taboola",
  
- 
+ /*
  //analytics
  "firebase",
  "firebaseinstallations",
@@ -67,7 +66,7 @@ var ruler = [
  "optimizely",
  "onesignal",
  "amplitude",
- "sharethis",
+ "sharethis",*/
 
  
  //ugly apps
