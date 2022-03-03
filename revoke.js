@@ -15,7 +15,7 @@ var ruler = [
  "tag",
  //"stat",
  "collect",
- //"log",
+ "log",
  
  //ads
  "applvn",
@@ -65,6 +65,8 @@ var ruler = [
  "safebrowsing",
  "optimizely",
  "onesignal",
+ "amplitude",
+
  
  //ugly apps
  "facebook",
