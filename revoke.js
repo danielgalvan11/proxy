@@ -75,6 +75,8 @@ var ruler = [
  "sharethis",
  "trafficmanager",
  "appcenter",
+ "bugsnag",
+
 
  
  //ugly apps
