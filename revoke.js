@@ -62,8 +62,8 @@ var ruler = [
  "newrelic",
  "datadoghq",
  "wzrkt",
- "safebrowsing",
- "optimizely",
+ //"safebrowsing",
+ //"optimizely",
  
  //ugly apps
  "facebook",
