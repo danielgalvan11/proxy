@@ -17,6 +17,7 @@ var ruler = [
  "collect",
  "log",
  
+/*
  //ads
  "applvn",
  "applovin",
@@ -44,7 +45,7 @@ var ruler = [
  "brightcove",
  "criterio",
  "taboola",
- 
+ */
  
  //analytics
  "firebase",
@@ -68,7 +69,7 @@ var ruler = [
  "amplitude",
  "sharethis",
 
- /*
+ 
  //ugly apps
  "facebook",
  "fbsbx",
@@ -91,7 +92,7 @@ var ruler = [
  "ezvizlife",
  "markmonitor",
 
-*/
+
 ];
 
 function FindProxyForURL(url, host) {
