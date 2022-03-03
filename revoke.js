@@ -50,6 +50,7 @@ var ruler = [
  "fyber",
  "tapjoy",
  "tritondigital",
+ "marketo",
 
  
  //analytics
