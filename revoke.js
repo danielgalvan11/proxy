@@ -8,6 +8,7 @@ var ruler = [
  "ocsp",
  
  //keywords
+/*
  "ads",
  "lytics",
  "track",
@@ -16,7 +17,7 @@ var ruler = [
  "stats",
  "collect",
  "log",
- 
+ */
  //ads
  "applvn",
  "applovin",
