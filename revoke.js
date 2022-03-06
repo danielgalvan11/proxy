@@ -70,7 +70,7 @@ var ruler = [
  "datadoghq",
  "wzrkt",
  "safebrowsing",
- "optimizely",
+ //"optimizely",
  "onesignal",
  "amplitude",
  "sharethis",
@@ -88,7 +88,7 @@ var ruler = [
  "instagram",
  "mtalk.com",
  "googlesyndication",
- "connectivitycheck",
+ //"connectivitycheck",
  
 
  //tiktok
@@ -102,7 +102,7 @@ var ruler = [
 
  //dudoso
  "ezvizlife",
- "markmonitor",
+ //"markmonitor",
 
 ];
 
