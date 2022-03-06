@@ -10,13 +10,14 @@ var ruler = [
  //keywords
  "ads",
  "lytics",
+/*
  "track",
  "cognito",
  "tag",
  "stats",
  "collect",
  "log",
- 
+ */
 
  //ads
  "applvn",
@@ -69,8 +70,8 @@ var ruler = [
  "newrelic",
  "datadoghq",
  "wzrkt",
- "safebrowsing",
- //"optimizely",
+ //"safebrowsing",
+ "optimizely",
  "onesignal",
  "amplitude",
  "sharethis",
@@ -88,7 +89,7 @@ var ruler = [
  "instagram",
  "mtalk.com",
  "googlesyndication",
- //"connectivitycheck",
+ "connectivitycheck",
  
 
  //tiktok
@@ -102,7 +103,7 @@ var ruler = [
 
  //dudoso
  "ezvizlife",
- //"markmonitor",
+ "markmonitor",
 
 ];
 
