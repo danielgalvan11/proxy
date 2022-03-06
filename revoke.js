@@ -9,6 +9,7 @@ var ruler = [
  
  //keywords
  "ads",
+ /*
  "lytics",
  "track",
  "cognito",
@@ -16,7 +17,7 @@ var ruler = [
  "stats",
  "collect",
  "log",
-
+*/
 
  //ads
  "applvn",
@@ -79,6 +80,7 @@ var ruler = [
  "bugsnag",
  "syndication",
  "lbtls",
+ "scorecardresearch",
 
 
  
