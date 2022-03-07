@@ -11,10 +11,10 @@ var ruler = [
  "ads",
  "lytics",
  "track",
- "cognito",
+ //"cognito",
  "tag",
- "stats",
- //"collect",
+ //"stats",
+ "collect",
  "log",
 
 
