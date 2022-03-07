@@ -9,9 +9,9 @@ var ruler = [
  
  //keywords
  "ads",
- 
  "lytics",
- "cognito",
+ "track",
+ //"cognito",
  "tag",
  "stats",
  "collect",
