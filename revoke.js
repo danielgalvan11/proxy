@@ -13,7 +13,7 @@ var ruler = [
  "track",
  "cognito",
  "tag",
- //"stats",
+ "stats",
  //"collect",
  //"log",
 
