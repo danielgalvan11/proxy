@@ -95,11 +95,12 @@ var ruler = [
  //tiktok
  "ttlivecdn",
  "tiktokcdn",
+/*
  "tiktokv",
  "snapkit",
  "bytetcdn",
  "byteoversea",
-
+*/
 
  //dudoso
  "ezvizlife",
