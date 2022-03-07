@@ -15,7 +15,7 @@ var ruler = [
  "tag",
  "stats",
  //"collect",
- //"log",
+ "log",
 
 
  //ads
