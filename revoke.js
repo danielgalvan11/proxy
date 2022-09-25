@@ -3,6 +3,13 @@ var PROXY = "PROXY 127.0.0.1:8021";
 
 var ruler = [
 
+"googletagservices",
+"google-analytics",
+"googlesyndication",
+"adsystem",
+"pubnative",
+"onetrust",
+"firebase",
 
 
 
