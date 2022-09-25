@@ -3,10 +3,6 @@ var PROXY = "PROXY 127.0.0.1:8021";
 
 var ruler = [
 
- //apple
- "mesu",
- "ocsp",
- 
  //keywords
  "ads",
  "lytics",
@@ -14,8 +10,8 @@ var ruler = [
  "cognito",
  "tags",
  "stats",
- //"collect",
- //"log",
+ "collect",
+ "log",
 
 
  //ads
