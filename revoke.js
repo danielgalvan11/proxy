@@ -10,8 +10,15 @@ var ruler = [
 "pubnative",
 "onetrust",
 "firebase",
-
-
+"mapbox",
+"crashlyticsreports",
+"googlesyndication",
+"app-measurement",
+"scorecardresearch",
+"onetrust",
+"wlvpn",
+"cookielaw",
+"doubleclick",
 
 
 
