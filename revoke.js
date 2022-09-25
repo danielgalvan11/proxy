@@ -9,7 +9,7 @@ var ruler = [
 "adsystem",
 "pubnative",
 "onetrust",
-"firebase",
+//"firebase",
 "mapbox",
 "crashlyticsreports",
 "googlesyndication",
@@ -17,7 +17,6 @@ var ruler = [
 "scorecardresearch",
 "onetrust",
 "wlvpn",
-"cookielaw",
 "doubleclick",
 "downdetector",
   "sectigo",
@@ -39,6 +38,7 @@ var ruler = [
   "ads",
   "kayzen",
   "logs",
+  "inmobi",
   
 
 
