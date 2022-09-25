@@ -20,6 +20,26 @@ var ruler = [
 "cookielaw",
 "doubleclick",
 "downdetector",
+  "sectigo",
+  "rayjump",
+  "byteoversea",
+  "unity3d",
+  "chartboost",
+  "applovin",
+  "appsflyer",
+  "fyber",
+  "inner-active",
+  "fbcdn",
+  "supersonicads",
+  "pointblack",
+  "tapjoy",
+  "ssacdn",
+  "vungle",
+  "adcolony",
+  "ads",
+  "kayzen",
+  "logs",
+  
 
 
 
