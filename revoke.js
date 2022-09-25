@@ -19,6 +19,7 @@ var ruler = [
 "wlvpn",
 "cookielaw",
 "doubleclick",
+"downdetector",
 
 
 
