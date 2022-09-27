@@ -28,7 +28,7 @@ var ruler = [
   "appsflyer",
   "fyber",
   "inner-active",
-  "fbcdn",
+ // "fbcdn",
   "supersonicads",
   "pointblack",
   "tapjoy",
@@ -39,6 +39,19 @@ var ruler = [
   "kayzen",
   "logs",
   "inmobi",
+"analytics",
+"datasavannah",
+"revenuecat",
+"amplitude",
+"device-provisioning",
+"fcmtoken",
+"crashlytics",
+"firebasein",
+"firebaseremoteconfig",
+"graph.facebook",
+"rubiconproject",
+"metrics",
+
   
 
 
