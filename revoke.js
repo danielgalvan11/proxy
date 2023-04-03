@@ -14,6 +14,12 @@ var ruler = [
  "log",
 */
 
+//apple revoke
+"ffapple.com",
+"ocsp.apple.com",
+"ocsp2.apple.com",
+
+
  //ads
  "applvn",
  "applovin",
