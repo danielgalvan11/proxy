@@ -55,6 +55,7 @@ var ruler = [
  "tritondigital",
  "marketo",
 
+/*
  
  //analytics
  "firebase",
@@ -83,7 +84,7 @@ var ruler = [
  "syndication",
  "lbtls",
  "scorecardresearch",
-
+*/
 
  //ugly apps
  "facebook",
