@@ -2,7 +2,8 @@ var DIRECT = "DIRECT";
 var PROXY = "PROXY 127.0.0.1:8021";
 
 var ruler = [
-  
+ 
+/*
  //keywords
  "ads",
  "lytics",
@@ -12,7 +13,7 @@ var ruler = [
  "stats",
  "collect",
  "log",
-
+*/
 
 //apple revoke
 "ffapple.com",
