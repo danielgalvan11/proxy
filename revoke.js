@@ -17,9 +17,12 @@ var ruler = [
 
 //apple revoke
 "ffapple.com",
+ 
 "ocsp.apple.com",
 "ocsp2.apple.com",
-
+//scarlet
+"http://ppq.apple.com",
+"http://certs.apple.com",
 
  //ads
  "applvn",
