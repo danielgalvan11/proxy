@@ -21,8 +21,8 @@ var ruler = [
 "ocsp.apple.com",
 "ocsp2.apple.com",
 //scarlet
-"http://ppq.apple.com",
-"http://certs.apple.com",
+//"http://ppq.apple.com",
+//"http://certs.apple.com",
 
  //ads
  "applvn",
