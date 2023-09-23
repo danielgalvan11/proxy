@@ -15,11 +15,12 @@ var ruler = [
  "log",
 */
 
+"mesu.apple.com",
 //apple revoke
-"ffapple.com",
+//"ffapple.com",
  
-"ocsp.apple.com",
-"ocsp2.apple.com",
+//"ocsp.apple.com",
+//"ocsp2.apple.com",
 //scarlet
 //"http://ppq.apple.com",
 //"http://certs.apple.com",
