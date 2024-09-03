@@ -15,6 +15,17 @@ var ruler = [
  "log",
 */
 
+//for sidelodading
+"ocsp.apple.com",
+"ocsp2.apple.com",
+"valid.apple.com",
+"crl.apple.com",
+"certs.apple.com",
+"appattest.apple.com",
+ "vpp.itunes.apple.com",
+ //
+ 
+ 
 "mesu.apple.com",
 //apple revoke
 //"ffapple.com",
@@ -59,7 +70,6 @@ var ruler = [
  "tritondigital",
  "marketo",
 
-/*
  
  //analytics
  "firebase",
@@ -83,12 +93,12 @@ var ruler = [
  "amplitude",
  "sharethis",
  "trafficmanager",
- "appcenter",
+ //"appcenter",
  "bugsnag",
  "syndication",
  "lbtls",
  "scorecardresearch",
-*/
+//
 
  //ugly apps
  "facebook",
