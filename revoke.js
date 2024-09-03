@@ -17,13 +17,18 @@ var ruler = [
 
 //for sidelodading
 "ocsp.apple.com",
-"ocsp2.apple.com",
-"valid.apple.com",
-"crl.apple.com",
-"certs.apple.com",
-"appattest.apple.com",
- "vpp.itunes.apple.com",
- //
+					"ocsp2.apple.com",
+				 "mesu.apple.com",
+					"<string>valid.apple.com",
+					"<string>crl.apple.com",
+					"<string>certs.apple.com",
+				 "<string>appattest.apple.com",
+					"<string>vpp.itunes.apple.com",
+					"<string>guzzoni-apple-com.v.aaplimg.com",
+					"<string>gdmf.apple.com",
+					"<string>axm-app.apple.com",
+					"<string>comm-cohort.ess.apple.com",
+					"<string>comm-main.ess.apple.com",
  
  
 "mesu.apple.com",
