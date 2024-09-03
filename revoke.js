@@ -17,21 +17,34 @@ var ruler = [
 
 //for sidelodading
 "ocsp.apple.com",
-					"ocsp2.apple.com",
-				 "mesu.apple.com",
-					"<string>valid.apple.com",
-					"<string>crl.apple.com",
-					"<string>certs.apple.com",
-				 "<string>appattest.apple.com",
-					"<string>vpp.itunes.apple.com",
-					"<string>guzzoni-apple-com.v.aaplimg.com",
-					"<string>gdmf.apple.com",
-					"<string>axm-app.apple.com",
-					"<string>comm-cohort.ess.apple.com",
-					"<string>comm-main.ess.apple.com",
- 
- 
+"ocsp2.apple.com",
 "mesu.apple.com",
+"valid.apple.com",
+"crl.apple.com",
+"certs.apple.com",
+"appattest.apple.com",
+"vpp.itunes.apple.com",
+"guzzoni-apple-com.v.aaplimg.com",
+"gdmf.apple.com",
+"axm-app.apple.com",
+"comm-cohort.ess.apple.com",
+"comm-main.ess.apple.com",
+ 
+
+//telemetry esing
+"https://qmuiteam.com",
+"https://h.trace.qq.com",
+"https://ios.bugly.qq.com",
+"https://ios.bugly.qcloud.com",
+"https://ucc.umeng.com",
+"https://aspect-upush.umeng.com",
+"https://ulogs.umeng.com",
+"https://ulogs.umengcloud.com",
+"https://alogus.umeng.com",
+"http://baidu.com",
+"https://utoken.umeng.com",
+"http://aladdinsys.com",
+	
 //apple revoke
 //"ffapple.com",
  
