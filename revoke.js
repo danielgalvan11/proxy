@@ -31,7 +31,7 @@ var ruler = [
 "comm-main.ess.apple.com",
  
 
-//telemetry esing
+//telemetry esing app
 "https://qmuiteam.com",
 "https://h.trace.qq.com",
 "https://ios.bugly.qq.com",
@@ -54,6 +54,7 @@ var ruler = [
 //"http://ppq.apple.com",
 //"http://certs.apple.com",
 
+	/*
  //ads
  "applvn",
  "applovin",
@@ -136,7 +137,7 @@ var ruler = [
  "byteoversea",
 
 
-];
+];*/
 
 function FindProxyForURL(url, host) {
   host = host.toLowerCase();
