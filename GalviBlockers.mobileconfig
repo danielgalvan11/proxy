@@ -8,7 +8,7 @@
 			<key>PayloadDescription</key>
 			<string>Global HTTP Proxy</string>
 			<key>PayloadDisplayName</key>
-			<string>Galvi's AdsBlokerz</string>
+			<string>GalviBlokerz</string>
 			<key>PayloadIdentifier</key>
 			<string>com.apple.proxy.http.global.6F6F3A4B-6E3A-4B20-B815-7BC2757C9959</string>
 			<key>PayloadType</key>
