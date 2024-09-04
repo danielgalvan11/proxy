@@ -15,7 +15,7 @@ var ruler = [
  "log",
 */
 
-//for sidelodading
+//para poder instalar apps con Esign de un perfil revocado
 "ocsp.apple.com",
 "ocsp2.apple.com",
 "mesu.apple.com",
@@ -32,18 +32,18 @@ var ruler = [
  
 
 //telemetry esing app
-"https://qmuiteam.com",
-"https://h.trace.qq.com",
-"https://ios.bugly.qq.com",
-"https://ios.bugly.qcloud.com",
-"https://ucc.umeng.com",
-"https://aspect-upush.umeng.com",
-"https://ulogs.umeng.com",
-"https://ulogs.umengcloud.com",
-"https://alogus.umeng.com",
+"qmuiteam.com",
+"h.trace.qq.com",
+"ios.bugly.qq.com",
+"ios.bugly.qcloud.com",
+"ucc.umeng.com",
+"aspect-upush.umeng.com",
+"ulogs.umeng.com",
+"ulogs.umengcloud.com",
+"alogus.umeng.com",
 "http://baidu.com",
-"https://utoken.umeng.com",
-"http://aladdinsys.com",
+"utoken.umeng.com",
+"aladdinsys.com",
 	
 //apple revoke
 //"ffapple.com",
