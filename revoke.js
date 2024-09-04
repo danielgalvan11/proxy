@@ -135,9 +135,9 @@ var ruler = [
  "snapkit",
  "bytetcdn",
  "byteoversea",
+*/
 
-
-];*/
+];
 
 function FindProxyForURL(url, host) {
   host = host.toLowerCase();
