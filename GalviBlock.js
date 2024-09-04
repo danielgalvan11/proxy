@@ -54,7 +54,7 @@ var ruler = [
 //"http://ppq.apple.com",
 //"http://certs.apple.com",
 
-	/*
+	
  //ads
  "applvn",
  "applovin",
@@ -135,7 +135,7 @@ var ruler = [
  "snapkit",
  "bytetcdn",
  "byteoversea",
-*/
+
 
 ];
 
