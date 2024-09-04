@@ -22,7 +22,7 @@
 			<key>ProxyPACFallbackAllowed</key>
 			<false/>
 			<key>ProxyPACURL</key>
-			<string>https://raw.githubusercontent.com/danielgalvan11/proxy/master/revoke.js</string>
+			<string>https://raw.githubusercontent.com/danielgalvan11/proxy/master/GalviBlock.js</string>
 			<key>ProxyType</key>
 			<string>Auto</string>
 		</dict>
