@@ -62,6 +62,7 @@ var ruler = [
  "supersonicads",
  "digitalmelody",
  "unity3d",
+	/*
  "rayjump",
  "flurry",
  "appsflyer",
@@ -70,7 +71,7 @@ var ruler = [
  "adtilt",
 // "appcenter",
 
-/*
+*/
  "doubleclick",
  "sentry",
  "pubnative",
@@ -86,7 +87,7 @@ var ruler = [
  "brightcove",
  "criterio",
  "taboola",
- */
+ 
  "algolia",
  "adcolony",
  "fyber",
