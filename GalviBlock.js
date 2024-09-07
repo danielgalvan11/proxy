@@ -70,7 +70,7 @@ var ruler = [
  "adtilt",
 // "appcenter",
 
-	
+
  "doubleclick",
  "sentry",
  "pubnative",
@@ -81,11 +81,12 @@ var ruler = [
  "mxpnl",
  "admob",
  "parsely",
-	/*
+	
  "trafficjunky",
  "brightcove",
  "criterio",
  "taboola",
+ /*
  "algolia",
  "adcolony",
  "fyber",
