@@ -94,7 +94,7 @@ var ruler = [
 // "tapjoy",
  "tritondigital",
  "marketo",
-
+*/
  
  //analytics
  "firebase",
@@ -141,7 +141,7 @@ var ruler = [
  "snapkit",
  "bytetcdn",
  "byteoversea",
-*/
+
 
 ];
 
