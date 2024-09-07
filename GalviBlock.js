@@ -90,11 +90,11 @@ var ruler = [
  "algolia",
  "adcolony",
  "fyber",
-	/*
+	
  "tapjoy",
- "tritondigital",
- "marketo",
-/*
+// "tritondigital",
+ //"marketo",
+
  
  //analytics
  "firebase",
