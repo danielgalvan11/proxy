@@ -69,6 +69,7 @@ var ruler = [
  "active.mobi",
  "adtilt",
 // "appcenter",
+
 	
  "doubleclick",
  "sentry",
@@ -80,6 +81,7 @@ var ruler = [
  "mxpnl",
  "admob",
  "parsely",
+	/*
  "trafficjunky",
  "brightcove",
  "criterio",
