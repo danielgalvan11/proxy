@@ -67,7 +67,8 @@ var ruler = [
  "vungle",
  "active.mobi",
  "adtilt",
- "appcenter",
+// "appcenter",
+	/*
  "doubleclick",
  "sentry",
  "pubnative",
@@ -88,8 +89,8 @@ var ruler = [
  "tapjoy",
  "tritondigital",
  "marketo",
-
- /*
+*/
+ 
  //analytics
  "firebase",
  "firebaseinstallations",
@@ -118,7 +119,7 @@ var ruler = [
  "lbtls",
  "scorecardresearch",
 //
-*/
+
  //ugly apps
  //"facebook",
  //"fbsbx",
