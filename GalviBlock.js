@@ -69,7 +69,7 @@ var ruler = [
  "active.mobi",
  "adtilt",
 // "appcenter",
-	/*
+	
  "doubleclick",
  "sentry",
  "pubnative",
@@ -90,7 +90,7 @@ var ruler = [
  "tapjoy",
  "tritondigital",
  "marketo",
-
+/*
  
  //analytics
  "firebase",
