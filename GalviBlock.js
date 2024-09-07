@@ -86,10 +86,11 @@ var ruler = [
  "brightcove",
  "criterio",
  "taboola",
- /*
+ 
  "algolia",
  "adcolony",
  "fyber",
+	/*
  "tapjoy",
  "tritondigital",
  "marketo",
