@@ -44,7 +44,8 @@ var ruler = [
 "http://baidu.com",
 "utoken.umeng.com",
 "aladdinsys.com",
-	
+
+	/*
 //apple revoke
 //"ffapple.com",
  
@@ -89,7 +90,7 @@ var ruler = [
  "tapjoy",
  "tritondigital",
  "marketo",
-*/
+
  
  //analytics
  "firebase",
@@ -136,7 +137,7 @@ var ruler = [
  "snapkit",
  "bytetcdn",
  "byteoversea",
-
+*/
 
 ];
 
