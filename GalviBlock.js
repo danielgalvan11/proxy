@@ -55,14 +55,14 @@ var ruler = [
 //"http://ppq.apple.com",
 //"http://certs.apple.com",
 
-	
+	/*
  //ads
  "applvn",
  "applovin",
  "supersonicads",
  "digitalmelody",
  "unity3d",
-	/*
+	*/
  "rayjump",
  "flurry",
  "appsflyer",
@@ -71,7 +71,7 @@ var ruler = [
  "adtilt",
 // "appcenter",
 
-*/
+
  "doubleclick",
  "sentry",
  "pubnative",
