@@ -128,7 +128,7 @@ var ruler = [
 
  //ugly apps
  "facebook",
- "fbsbx",
+ //"fbsbx",
  //"instagram",
  "mtalk.com",
  "googlesyndication",
