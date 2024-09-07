@@ -91,9 +91,9 @@ var ruler = [
  "adcolony",
  "fyber",
 	
- "tapjoy",
-// "tritondigital",
- //"marketo",
+// "tapjoy",
+ "tritondigital",
+ "marketo",
 
  
  //analytics
