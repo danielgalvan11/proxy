@@ -1,24 +1,4 @@
 
-
-
-
-
-
-
-
-
-
-
-
-j
-
-
-
-
-
-
-
-
 var DIRECT = "DIRECT";
 var PROXY = "PROXY 127.0.0.1:8021";
 
@@ -149,7 +129,7 @@ var ruler = [
 
  //ugly apps
  //"facebook",
- //"fbsbx",
+ "fbsbx",
  //"instagram",
  "mtalk.com",
  "googlesyndication",
