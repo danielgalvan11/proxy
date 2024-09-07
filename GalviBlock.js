@@ -45,7 +45,7 @@ var ruler = [
 "utoken.umeng.com",
 "aladdinsys.com",
 
-	/*
+	
 //apple revoke
 //"ffapple.com",
  
