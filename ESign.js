@@ -4,9 +4,9 @@ var PROXY = "PROXY 127.0.0.1:8021";
 var ruler = [
  
 //para poder instalar apps con Esign de un perfil revocado
-"ocsp.apple.com",
-"ocsp2.apple.com",
-"mesu.apple.com",
+//"ocsp.apple.com",
+//"ocsp2.apple.com",
+//"mesu.apple.com",
 "valid.apple.com",
 "crl.apple.com",
 "certs.apple.com",
