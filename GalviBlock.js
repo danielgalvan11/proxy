@@ -92,12 +92,11 @@ var ruler = [
  "algolia",
  "adcolony",
  "fyber",
-	
 //"tapjoy",   no
  "tritondigital",
  "marketo",
 
- 
+ /*
  //analytics
  "firebase",
  "firebaseinstallations",
@@ -126,7 +125,7 @@ var ruler = [
  "lbtls",
  "scorecardresearch",
 //
-
+*/
  //ugly apps
  "facebook",
  "fbsbx",
