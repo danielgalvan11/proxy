@@ -96,7 +96,7 @@ var ruler = [
  "tritondigital",
  "marketo",
 
- */
+ 
  //analytics
  "firebase",
  "firebaseinstallations",
@@ -125,7 +125,7 @@ var ruler = [
  "lbtls",
  "scorecardresearch",
 //
-
+*/
  //ugly apps
  "facebook",
  "fbsbx",
