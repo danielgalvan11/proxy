@@ -56,7 +56,7 @@ var ruler = [
 //"http://ppq.apple.com",
 //"http://certs.apple.com",
 
-
+/*
  //ads
  "applvn",
  "applovin",
@@ -96,7 +96,7 @@ var ruler = [
  "tritondigital",
  "marketo",
 
- /*
+ */
  //analytics
  "firebase",
  "firebaseinstallations",
@@ -125,7 +125,7 @@ var ruler = [
  "lbtls",
  "scorecardresearch",
 //
-*/
+
  //ugly apps
  "facebook",
  "fbsbx",
