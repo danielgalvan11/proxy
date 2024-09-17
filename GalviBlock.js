@@ -126,7 +126,7 @@ var ruler = [
  "scorecardresearch",
 //
 */
-	/*
+	
  //ugly apps
 // "facebook",
  "fbsbx",
@@ -135,7 +135,7 @@ var ruler = [
  "googlesyndication",
  "connectivitycheck",
  
-*/
+
  //tiktok
  "ttlivecdn",
  //"tiktokcdn",
