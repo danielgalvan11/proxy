@@ -19,18 +19,19 @@ var ruler = [
 //para poder instalar apps con Esign de un perfil revocado
 "ocsp.apple.com",
 "ocsp2.apple.com",
-"mesu.apple.com",
 "valid.apple.com",
 "crl.apple.com",
 "certs.apple.com",
 "appattest.apple.com",
 "vpp.itunes.apple.com",
+	//block updates
+/*"mesu.apple.com",
 "guzzoni-apple-com.v.aaplimg.com",
 "gdmf.apple.com",
 "axm-app.apple.com",
 "comm-cohort.ess.apple.com",
 "comm-main.ess.apple.com",
- 
+ */
 
 //telemetry esing app
 "qmuiteam.com",
