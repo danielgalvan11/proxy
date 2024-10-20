@@ -25,13 +25,13 @@ var ruler = [
 "appattest.apple.com",
 "vpp.itunes.apple.com",
 	//block updates
-/*"mesu.apple.com",
+"mesu.apple.com",
 "guzzoni-apple-com.v.aaplimg.com",
 "gdmf.apple.com",
 "axm-app.apple.com",
 "comm-cohort.ess.apple.com",
 "comm-main.ess.apple.com",
- */
+ 
 
 //telemetry esing app
 "qmuiteam.com",
