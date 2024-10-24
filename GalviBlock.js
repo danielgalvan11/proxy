@@ -128,7 +128,8 @@ var ruler = [
  "scorecardresearch",
 //
 */
-	
+
+	/*
  //ugly apps
 // "facebook",
  "fbsbx",
@@ -146,7 +147,7 @@ var ruler = [
  "bytetcdn",
  "byteoversea",
 
-
+*/
 ];
 
 function FindProxyForURL(url, host) {
