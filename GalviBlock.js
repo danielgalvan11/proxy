@@ -136,6 +136,14 @@ var ruler = [
  "bytetcdn",
  "byteoversea",
 
+//NOpor
+"pornhub",
+"xvideos",
+"xrares",
+"thothub",
+"xnxx",
+"erome",
+
 
 ];
 
