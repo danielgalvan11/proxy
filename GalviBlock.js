@@ -48,7 +48,7 @@ var ruler = [
 "utoken.umeng.com",
 "aladdinsys.com",
 
-	
+	/*
  //ads
  "applvn",
  "applovin",
@@ -88,7 +88,7 @@ var ruler = [
  "tritondigital",
  "marketo",
 
- /*
+
  //analytics
  "firebase",
  "firebaseinstallations",
