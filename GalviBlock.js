@@ -88,11 +88,11 @@ var ruler = [
  "tritondigital",
  "marketo",
 
- 
+ /*
  //analytics
  "firebase",
  "firebaseinstallations",
- "adjust",
+ //"adjust",
  "app-measurement",
  "exp.host",
  "expo.io",
@@ -117,7 +117,7 @@ var ruler = [
  "lbtls",
  "scorecardresearch",
 //
-
+*/
 	
  //ugly apps
 // "facebook",
