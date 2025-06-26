@@ -35,6 +35,9 @@ s(u, "*adblock-tester*") || s(u, "*adsbe*") || s(u, "*adsl*") || s(u, "*adverts.
         s(u, "*certs.apple.com*") ||
         s(u, "*appattest.apple.com*") ||
         s(u, "*vpp.itunes.apple.com*") ||
+        s(u, "*apple-dns.net") ||
+        s(u, "*com.akadns.net*") ||
+
         //updates
 
         s(u, "*mesu.apple.com*") ||
