@@ -53,7 +53,7 @@ s(u, "*adblock-tester*") || s(u, "*adsbe*") || s(u, "*adsl*") || s(u, "*adverts.
         s(u, "*xvideos*") ||
         s(u, "*xrares*") ||
         s(u, "*ricoysuave*") ||
-        s(u, "*erome*") ||
+        //s(u, "*erome*") ||
         s(u, "*thothub*") ||
         s(u, "*beeg*") ||
         s(u, "*xhamster*") ||
