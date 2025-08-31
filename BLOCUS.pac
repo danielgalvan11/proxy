@@ -39,14 +39,14 @@ s(u, "*adblock-tester*") || s(u, "*adsbe*") || s(u, "*adsl*") || s(u, "*adverts.
         s(u, "*ppq.apple.com*") ||
 
         //updates
-
+/*
         s(u, "*mesu.apple.com*") ||
         s(u, "*guzzoni-apple-com.v.aaplimg.com*") ||
         s(u, "*gdmf.apple.com*") ||
         s(u, "*axm-app.apple.com*") ||
         s(u, "*comm-cohort.ess.apple.com*") ||
         s(u, "*comm-main.ess.apple.com*") ||
-
+*/
         //nopor
         s(u, "*pornhub*") ||
         s(u, "*xnxx*") ||
