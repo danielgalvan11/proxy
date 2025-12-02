@@ -27,7 +27,7 @@ s(u, "*adblock-tester*") || s(u, "*adsbe*") || s(u, "*adsl*") || s(u, "*adverts.
 
     else if (s(u, "*adsafeprotected*") || s(u, "*app-analytics*") || s(u, "*app-measurement*") || s(u, "*applovin*") || s(u, "*googlead*") || s(u, "*googlesyndication*") || s(u, "*googletag*")) return BYPASS;
     else if (
-/*
+// /*
         //esign
         s(u, "*ocsp.apple.com*") ||
         s(u, "*ocsp2.apple.com*") ||
@@ -37,8 +37,9 @@ s(u, "*adblock-tester*") || s(u, "*adsbe*") || s(u, "*adsl*") || s(u, "*adverts.
         s(u, "*appattest.apple.com*") ||
         s(u, "*vpp.itunes.apple.com*") ||
 
+//deactivate to install, and reactivate to use apps
         s(u, "*ppq.apple.com*") ||
-*/
+// */
         //updates
 /*
         s(u, "*mesu.apple.com*") ||
