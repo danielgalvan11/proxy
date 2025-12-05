@@ -66,8 +66,8 @@ s(u, "*adblock-tester*") || s(u, "*adsbe*") || s(u, "*adsl*") || s(u, "*adverts.
         s(u, "*chaturbate*") ||
 
         //trackerss
-        s(u, "*enjoyteam*") ||
-        s(u, "*fouadraheb*") ||
+        //s(u, "*enjoyteam*") ||
+        //s(u, "*fouadraheb*") ||
 
 
 
