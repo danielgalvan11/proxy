@@ -69,6 +69,8 @@ s(u, "*adblock-tester*") || s(u, "*adsbe*") || s(u, "*adsl*") || s(u, "*adverts.
         //s(u, "*enjoyteam*") ||
         //s(u, "*fouadraheb*") ||
 
+        s(u, "*bing*") ||
+
        //FIRETV
         s(u, "*d1s31zyz7dcc2d.cloudfront*") ||
         s(u, "*amzdigital-a-a.akamaihd*") ||
