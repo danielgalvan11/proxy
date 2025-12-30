@@ -1,305 +1,319 @@
 {
-  "services": [
-    {
-      "id": "realdebrid",
-      "enabled": false,
-      "credentials": {}
-    },
-    {
-      "id": "debridlink",
-      "enabled": false,
-      "credentials": {}
-    },
-    {
-      "id": "alldebrid",
-      "enabled": false,
-      "credentials": {}
-    },
-    {
-      "id": "premiumize",
-      "enabled": false,
-      "credentials": {}
-    },
-    {
-      "id": "torbox",
-      "enabled": false,
-      "credentials": {}
-    },
-    {
-      "id": "stremio_nntp",
-      "enabled": false,
-      "credentials": {}
-    },
-    {
-      "id": "nzbdav",
-      "enabled": false,
-      "credentials": {}
-    },
-    {
-      "id": "altmount",
-      "enabled": false,
-      "credentials": {}
-    },
-    {
-      "id": "offcloud",
-      "enabled": false,
-      "credentials": {}
-    },
-    {
-      "id": "putio",
-      "enabled": false,
-      "credentials": {}
-    },
-    {
-      "id": "easynews",
-      "enabled": false,
-      "credentials": {}
-    },
-    {
-      "id": "easydebrid",
-      "enabled": false,
-      "credentials": {}
-    },
-    {
-      "id": "debrider",
-      "enabled": false,
-      "credentials": {}
-    },
-    {
-      "id": "pikpak",
-      "enabled": false,
-      "credentials": {}
-    },
-    {
-      "id": "seedr",
-      "enabled": false,
-      "credentials": {}
-    }
-  ],
-  "presets": [
-    {
-      "type": "torrentio",
-      "instanceId": "724",
-      "enabled": true,
-      "options": {
-        "name": "Torrentio",
-        "timeout": 10000,
-        "resources": [
-          "stream",
-          "catalog",
-          "meta"
-        ],
-        "useMultipleInstances": false
-      }
-    },
-    {
-      "type": "nuvio-streams",
-      "instanceId": "ed9",
-      "enabled": true,
-      "options": {
-        "name": "Nuvio Streams",
-        "timeout": 10000,
-        "resources": [
-          "stream"
-        ],
-        "showBoxRegion": "USA7",
-        "providers": [
-          "uhdmovies",
-          "vidsrc",
-          "vidzee",
-          "showbox",
-          "moviesmod",
-          "4khdhub"
-        ],
-        "mediaTypes": []
-      }
-    },
-    {
-      "type": "opensubtitles",
-      "instanceId": "7f7",
-      "enabled": true,
-      "options": {
-        "name": "OpenSubtitles",
-        "timeout": 10000,
-        "resources": [
-          "subtitles"
-        ]
-      }
-    },
-    {
-      "type": "tmdb-addon",
-      "instanceId": "942",
-      "enabled": true,
-      "options": {
-        "name": "The Movie Database",
-        "timeout": 10000,
-        "resources": [
-          "catalog",
-          "meta"
-        ],
-        "Enable Adult Content": true,
-        "hideEpisodeThumbnails": false,
-        "provideImdbId": true,
-        "language": "en-US"
-      }
-    },
-    {
-      "type": "streaming-catalogs",
-      "instanceId": "5fd",
-      "enabled": true,
-      "options": {
-        "name": "Streaming Catalogs",
-        "timeout": 10000,
-        "resources": [
-          "catalog"
-        ],
-        "catalogs": [
-          "nfx",
-          "hbm",
-          "dnp",
-          "amp",
-          "atp",
-          "pmp",
-          "hlu",
-          "cru"
-        ]
-      }
-    }
-  ],
-  "formatter": {
-    "id": "custom",
-    "definition": {
-      "name": "{stream.resolution::exists[\"{stream.resolution::replace('2160p','4K')::replace('1080p','FHD')::replace('720p','HD')}\"||\"\"]} \n{stream.quality::exists[\"{stream.quality::replace('REMUX','+')::replace('BluRay','ð·')::replace('WEB-DL','ð¸')::replace('WEBRip','ð¸')}\"||\"\"]} \n[ {service.shortName}{service.cached::istrue[\"â¡\"||\"\"]}{service.cached::isfalse[\"â³\"||\"\"]}]",
-      "description": "ð¬ {stream.title}{stream.year::exists[\" ({stream.year})\"||\"\"]}\n{stream.quality::exists[\"{stream.quality::replace('REMUX','+')::replace('BluRay','ðµ Premium')::replace('WEB-DL','ð¢ Streaming')::replace('WEBRip','ð¡ Streaming')}\"||\"N/A\"]}{stream.visualTags::~HDR::istrue[\" â¨ HDR\"||\"\"]}{stream.visualTags::~DV::istrue[\" ð¥ Dolby Vision\"||\"\"]}\nð {stream.languageCodes::exists[\"{stream.languageCodes::join(' â¢ ')}\"||\"N/A\"]} | ð§ {stream.audioTags::exists[\"{stream.audioTags::join(' â¢ ')::replace('AC3','â¨â¨â¨')::replace('DDP','â¨â¨â¨')}\"||\"N/A\"]} | ð {stream.audioChannels::exists[\"{stream.audioChannels::join(' â¢ ')}\"||\" N/A\"]}\nð¦ {stream.size::>0[\"{stream.size::bytes}\"||\"N/A\"]} | ð°ï¸ {addon.name::exists[\"{addon.name}\"||\"N/A\"]} | âï¸ {stream.indexer::exists[\"{stream.indexer}\"||\"N/A\"]}\n{stream.type::=usenet[\"ð¿ \"||\"\"]}{stream.type::=p2p[\"ð \"||\"\"]}{stream.type::=debrid[\"ð \"||\"\"]}{stream.type::=p2p[\"Torrent\"||\"{stream.type::title}\"]}{stream.seeders::exists[\" |ð¤ {stream.seeders} \"||\"\"]}"
-    }
+  "metadata": {
+    "id": "aio-2025-12-30.08-20-09-pvopy05",
+    "name": "AIO",
+    "description": "Aver",
+    "source": "external",
+    "author": "Daniel",
+    "version": "1.0.0",
+    "category": "P2P",
+    "serviceRequired": false,
+    "setToSaveInstallMenu": true
   },
-  "preferredQualities": [
-    "BluRay REMUX",
-    "BluRay",
-    "WEB-DL",
-    "WEBRip",
-    "HDRip",
-    "HC HD-Rip",
-    "DVDRip",
-    "HDTV",
-    "CAM",
-    "TS",
-    "TC",
-    "SCR",
-    "Unknown"
-  ],
-  "preferredResolutions": [
-    "1080p",
-    "2160p"
-  ],
-  "excludedQualities": [
-    "CAM",
-    "SCR",
-    "TS",
-    "TC"
-  ],
-  "excludedVisualTags": [
-    "3D"
-  ],
-  "sortCriteria": {
-    "global": [
+  "config": {
+    "services": [
       {
-        "key": "cached",
-        "direction": "desc"
+        "id": "realdebrid",
+        "enabled": false,
+        "credentials": {}
       },
       {
-        "key": "resolution",
-        "direction": "desc"
+        "id": "debridlink",
+        "enabled": false,
+        "credentials": {}
       },
       {
-        "key": "library",
-        "direction": "desc"
+        "id": "alldebrid",
+        "enabled": false,
+        "credentials": {}
       },
       {
-        "key": "regexPatterns",
-        "direction": "desc"
+        "id": "premiumize",
+        "enabled": false,
+        "credentials": {}
       },
       {
-        "key": "streamType",
-        "direction": "desc"
+        "id": "torbox",
+        "enabled": false,
+        "credentials": {}
       },
       {
-        "key": "visualTag",
-        "direction": "desc"
+        "id": "stremio_nntp",
+        "enabled": false,
+        "credentials": {}
       },
       {
-        "key": "audioTag",
-        "direction": "desc"
+        "id": "nzbdav",
+        "enabled": false,
+        "credentials": {}
       },
       {
-        "key": "audioChannel",
-        "direction": "desc"
+        "id": "altmount",
+        "enabled": false,
+        "credentials": {}
       },
       {
-        "key": "encode",
-        "direction": "desc"
+        "id": "offcloud",
+        "enabled": false,
+        "credentials": {}
       },
       {
-        "key": "language",
-        "direction": "desc"
+        "id": "putio",
+        "enabled": false,
+        "credentials": {}
       },
       {
-        "key": "size",
-        "direction": "desc"
+        "id": "easynews",
+        "enabled": false,
+        "credentials": {}
+      },
+      {
+        "id": "easydebrid",
+        "enabled": false,
+        "credentials": {}
+      },
+      {
+        "id": "debrider",
+        "enabled": false,
+        "credentials": {}
+      },
+      {
+        "id": "pikpak",
+        "enabled": false,
+        "credentials": {}
+      },
+      {
+        "id": "seedr",
+        "enabled": false,
+        "credentials": {}
       }
-    ]
-  },
-  "deduplicator": {
-    "enabled": true,
-    "keys": [
-      "filename",
-      "infoHash"
     ],
-    "multiGroupBehaviour": "aggressive",
-    "cached": "single_result",
-    "uncached": "per_service",
-    "p2p": "single_result"
-  },
-  "proxy": {
-    "id": "mediaflow",
-    "proxiedServices": []
-  },
-  "preferredEncodes": [],
-  "preferredStreamTypes": [],
-  "preferredVisualTags": [],
-  "preferredAudioTags": [],
-  "excludedResolutions": [
-    "Unknown",
-    "144p",
-    "240p",
-    "360p",
-    "480p",
-    "576p",
-    "720p"
-  ],
-  "excludedLanguages": [],
-  "preferredLanguages": [
-    "English",
-    "Spanish"
-  ],
-  "seederRangeTypes": [],
-  "ageRangeTypes": [
-    "usenet"
-  ],
-  "size": {
-    "global": {
-      "movies": [
-        1000000000,
-        12000000000
-      ],
-      "series": [
-        0,
-        12000000000
+    "presets": [
+      {
+        "type": "torrentio",
+        "instanceId": "724",
+        "enabled": true,
+        "options": {
+          "name": "Torrentio",
+          "timeout": 10000,
+          "resources": [
+            "stream",
+            "catalog",
+            "meta"
+          ],
+          "useMultipleInstances": false
+        }
+      },
+      {
+        "type": "nuvio-streams",
+        "instanceId": "ed9",
+        "enabled": true,
+        "options": {
+          "name": "Nuvio Streams",
+          "timeout": 10000,
+          "resources": [
+            "stream"
+          ],
+          "showBoxRegion": "USA7",
+          "providers": [
+            "uhdmovies",
+            "vidsrc",
+            "vidzee",
+            "showbox",
+            "moviesmod",
+            "4khdhub"
+          ],
+          "mediaTypes": [],
+          "showBoxCookie": "<template_placeholder>"
+        }
+      },
+      {
+        "type": "opensubtitles",
+        "instanceId": "7f7",
+        "enabled": true,
+        "options": {
+          "name": "OpenSubtitles",
+          "timeout": 10000,
+          "resources": [
+            "subtitles"
+          ]
+        }
+      },
+      {
+        "type": "tmdb-addon",
+        "instanceId": "942",
+        "enabled": true,
+        "options": {
+          "name": "The Movie Database",
+          "timeout": 10000,
+          "resources": [
+            "catalog",
+            "meta"
+          ],
+          "Enable Adult Content": true,
+          "hideEpisodeThumbnails": false,
+          "provideImdbId": true,
+          "language": "en-US"
+        }
+      },
+      {
+        "type": "streaming-catalogs",
+        "instanceId": "5fd",
+        "enabled": true,
+        "options": {
+          "name": "Streaming Catalogs",
+          "timeout": 10000,
+          "resources": [
+            "catalog"
+          ],
+          "catalogs": [
+            "nfx",
+            "hbm",
+            "dnp",
+            "amp",
+            "atp",
+            "pmp",
+            "hlu",
+            "cru"
+          ]
+        }
+      }
+    ],
+    "formatter": {
+      "id": "custom",
+      "definition": {
+        "name": "{stream.resolution::exists[\"{stream.resolution::replace('2160p','4K')::replace('1080p','FHD')::replace('720p','HD')}\"||\"\"]} \n{stream.quality::exists[\"{stream.quality::replace('REMUX','+')::replace('BluRay','ð·')::replace('WEB-DL','ð¸')::replace('WEBRip','ð¸')}\"||\"\"]} \n[ {service.shortName}{service.cached::istrue[\"â¡\"||\"\"]}{service.cached::isfalse[\"â³\"||\"\"]}]",
+        "description": "ð¬ {stream.title}{stream.year::exists[\" ({stream.year})\"||\"\"]}\n{stream.quality::exists[\"{stream.quality::replace('REMUX','+')::replace('BluRay','ðµ Premium')::replace('WEB-DL','ð¢ Streaming')::replace('WEBRip','ð¡ Streaming')}\"||\"N/A\"]}{stream.visualTags::~HDR::istrue[\" â¨ HDR\"||\"\"]}{stream.visualTags::~DV::istrue[\" ð¥ Dolby Vision\"||\"\"]}\nð {stream.languageCodes::exists[\"{stream.languageCodes::join(' â¢ ')}\"||\"N/A\"]} | ð§ {stream.audioTags::exists[\"{stream.audioTags::join(' â¢ ')::replace('AC3','â¨â¨â¨')::replace('DDP','â¨â¨â¨')}\"||\"N/A\"]} | ð {stream.audioChannels::exists[\"{stream.audioChannels::join(' â¢ ')}\"||\" N/A\"]}\nð¦ {stream.size::>0[\"{stream.size::bytes}\"||\"N/A\"]} | ð°ï¸ {addon.name::exists[\"{addon.name}\"||\"N/A\"]} | âï¸ {stream.indexer::exists[\"{stream.indexer}\"||\"N/A\"]}\n{stream.type::=usenet[\"ð¿ \"||\"\"]}{stream.type::=p2p[\"ð \"||\"\"]}{stream.type::=debrid[\"ð \"||\"\"]}{stream.type::=p2p[\"Torrent\"||\"{stream.type::title}\"]}{stream.seeders::exists[\" |ð¤ {stream.seeders} \"||\"\"]}"
+      }
+    },
+    "preferredQualities": [
+      "BluRay REMUX",
+      "BluRay",
+      "WEB-DL",
+      "WEBRip",
+      "HDRip",
+      "HC HD-Rip",
+      "DVDRip",
+      "HDTV",
+      "CAM",
+      "TS",
+      "TC",
+      "SCR",
+      "Unknown"
+    ],
+    "preferredResolutions": [
+      "1080p",
+      "2160p"
+    ],
+    "excludedQualities": [
+      "CAM",
+      "SCR",
+      "TS",
+      "TC"
+    ],
+    "excludedVisualTags": [
+      "3D"
+    ],
+    "sortCriteria": {
+      "global": [
+        {
+          "key": "cached",
+          "direction": "desc"
+        },
+        {
+          "key": "resolution",
+          "direction": "desc"
+        },
+        {
+          "key": "library",
+          "direction": "desc"
+        },
+        {
+          "key": "regexPatterns",
+          "direction": "desc"
+        },
+        {
+          "key": "streamType",
+          "direction": "desc"
+        },
+        {
+          "key": "visualTag",
+          "direction": "desc"
+        },
+        {
+          "key": "audioTag",
+          "direction": "desc"
+        },
+        {
+          "key": "audioChannel",
+          "direction": "desc"
+        },
+        {
+          "key": "encode",
+          "direction": "desc"
+        },
+        {
+          "key": "language",
+          "direction": "desc"
+        },
+        {
+          "key": "size",
+          "direction": "desc"
+        }
       ]
-    }
-  },
-  "resultLimits": {
-    "global": 20
-  },
-  "digitalReleaseFilter": true
+    },
+    "deduplicator": {
+      "enabled": true,
+      "keys": [
+        "filename",
+        "infoHash"
+      ],
+      "multiGroupBehaviour": "aggressive",
+      "cached": "single_result",
+      "uncached": "per_service",
+      "p2p": "single_result"
+    },
+    "proxy": {
+      "id": "mediaflow",
+      "proxiedServices": []
+    },
+    "preferredEncodes": [],
+    "preferredStreamTypes": [],
+    "preferredVisualTags": [],
+    "preferredAudioTags": [],
+    "excludedResolutions": [
+      "Unknown",
+      "144p",
+      "240p",
+      "360p",
+      "480p",
+      "576p",
+      "720p"
+    ],
+    "excludedLanguages": [],
+    "preferredLanguages": [
+      "English",
+      "Spanish"
+    ],
+    "seederRangeTypes": [],
+    "ageRangeTypes": [
+      "usenet"
+    ],
+    "size": {
+      "global": {
+        "movies": [
+          1000000000,
+          12000000000
+        ],
+        "series": [
+          0,
+          12000000000
+        ]
+      }
+    },
+    "resultLimits": {
+      "global": 20
+    },
+    "digitalReleaseFilter": true
+  }
 }
