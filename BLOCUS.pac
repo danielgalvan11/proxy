@@ -61,7 +61,7 @@ s(u, "*adblock-tester*") || s(u, "*adsbe*") || s(u, "*adsl*") || s(u, "*adverts.
         s(u, "*xhamster*") ||
         s(u, "*porn*") ||
         s(u, "*youjizz*") ||
-        s(u, "*fapello*") ||
+ //       s(u, "*fapello*") ||
         s(u, "*stripchat*") ||
         s(u, "*chaturbate*") ||
 
