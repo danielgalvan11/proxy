@@ -55,15 +55,17 @@ s(u, "*adblock-tester*") || s(u, "*adsbe*") || s(u, "*adsl*") || s(u, "*adverts.
         s(u, "*xvideos*") ||
         s(u, "*xrares*") ||
         s(u, "*ricoysuave*") ||
-//        s(u, "*erome*") ||
+        s(u, "*erome*") ||
         s(u, "*thothub*") ||
         s(u, "*beeg*") ||
         s(u, "*xhamster*") ||
         s(u, "*porn*") ||
         s(u, "*youjizz*") ||
- //       s(u, "*fapello*") ||
+        s(u, "*fapello*") ||
         s(u, "*stripchat*") ||
         s(u, "*chaturbate*") ||
+        s(u, "*wildskirts*") ||
+        s(u, "*leakgallery*") ||
 
         //trackerss
         //s(u, "*enjoyteam*") ||
