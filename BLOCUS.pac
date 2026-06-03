@@ -74,9 +74,9 @@ s(u, "*adblock-tester*") || s(u, "*adsbe*") || s(u, "*adsl*") || s(u, "*adverts.
         s(u, "*bing.com*") ||
 
 
-        //s(u, "*ads.reddit.com*") ||
-        //s(u, "*events.redditmedia.com*") ||
-        //s(u, "*rereddit.com*") ||
+        s(u, "*ads.reddit.com*") ||
+        s(u, "*events.redditmedia.com*") ||
+        s(u, "*rereddit.com*") ||
 
 
        //FIRETV
