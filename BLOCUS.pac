@@ -77,6 +77,14 @@ s(u, "*adblock-tester*") || s(u, "*adsbe*") || s(u, "*adsl*") || s(u, "*adverts.
         s(u, "*ads.reddit.com*") ||
         s(u, "*events.redditmedia.com*") ||
         s(u, "*rereddit.com*") ||
+        s(u, "*ads-api.reddit.com*") ||
+        s(u, "*out.reddit.com*") ||
+        s(u, "*pixel.reddit.com*") ||
+        s(u, "*alb.reddit.com*") ||
+        s(u, "*logs.reddit.com*") ||
+        s(u, "*stats.reddit.com*") ||
+        s(u, "*tracking.reddit.com*") ||
+        s(u, "*click.reddit.com*") ||
 
 
        //FIRETV
